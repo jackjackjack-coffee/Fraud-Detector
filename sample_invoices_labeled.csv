@@ -1,0 +1,1001 @@
+invoice_id,date,vendor,category,amount,approved_by,fraud_label
+INV-10521,2024-05-18,NovaTech Systems,Consulting,2948.42,S.Park,CLEAN
+INV-10737,2024-08-14,Meridian IT Solutions,Legal,4378.33,M.Lee,CLEAN
+INV-10740,2024-03-22,Apex Office Supplies,Consulting,2233.64,M.Lee,CLEAN
+INV-10660,2024-06-16,Blue Ridge Consulting,Office Supplies,227.32,J.Kim,CLEAN
+INV-10411,2024-06-09,Blue Ridge Consulting,Catering,657.09,S.Park,CLEAN
+INV-10678,2024-05-23,Apex Office Supplies,IT Services,1028.32,C.Choi,CLEAN
+INV-10626,2024-02-29,Titan Logistics Co.,Staffing,149.96,J.Kim,CLEAN
+INV-10513,2024-04-28,Apex Office Supplies,Consulting,798.87,M.Lee,CLEAN
+INV-10859,2024-09-15,Meridian IT Solutions,Office Supplies,12620.18,C.Choi,CLEAN
+INV-10136,2024-10-18,Blue Ridge Consulting,Software Licenses,184.33,C.Choi,CLEAN
+INV-10811,2024-05-13,NovaTech Systems,Legal,1217.12,J.Kim,CLEAN
+INV-10076,2024-05-01,Greenway Staffing,Office Supplies,440.12,S.Park,CLEAN
+INV-10636,2024-07-05,Blue Ridge Consulting,Catering,3792.78,S.Park,CLEAN
+INV-DLT-N0006,2024-05-04,Delta Management Group,Management,5893.68,S.Park,CLEAN
+INV-10938,2024-12-01,Riverfront Catering,Facilities,2251.65,M.Lee,CLEAN
+INV-10899,2024-11-19,Apex Office Supplies,IT Services,178.23,C.Choi,CLEAN
+INV-10280,2024-06-09,NovaTech Systems,Software Licenses,451.93,C.Choi,CLEAN
+INV-10883,2024-03-13,Riverfront Catering,Consulting,1146.15,J.Kim,CLEAN
+INV-10761,2024-10-19,Greenway Staffing,Facilities,455.78,M.Lee,CLEAN
+INV-10319,2024-05-25,Riverfront Catering,Consulting,354.2,S.Park,CLEAN
+INV-10549,2024-09-04,Coastal Marketing Group,Consulting,220.53,M.Lee,CLEAN
+INV-10174,2024-06-17,Titan Logistics Co.,Catering,532.03,C.Choi,CLEAN
+INV-10371,2024-12-14,Titan Logistics Co.,Logistics,11482.72,M.Lee,CLEAN
+INV-10527,2024-05-17,Meridian IT Solutions,Staffing,1888.01,S.Park,CLEAN
+INV-10210,2024-04-11,NovaTech Systems,Catering,714.01,C.Choi,CLEAN
+INV-10235,2024-03-03,Inland Legal Services,Staffing,3198.79,J.Kim,CLEAN
+INV-10101,2024-12-22,Inland Legal Services,Logistics,1238.21,C.Choi,CLEAN
+INV-DLT-F0004,2024-11-10,Delta Management Group,Management,92461.66,S.Park,RSF_VIOLATION
+INV-10902,2024-10-28,Coastal Marketing Group,Marketing,1855.43,S.Park,CLEAN
+INV-10947,2024-11-21,Meridian IT Solutions,IT Services,969.99,J.Kim,CLEAN
+INV-10346,2024-09-11,Coastal Marketing Group,Staffing,94.81,M.Lee,CLEAN
+INV-10139,2024-05-21,Greenway Staffing,Logistics,117.82,J.Kim,CLEAN
+INV-10621,2024-08-04,Riverfront Catering,Catering,646.43,J.Kim,CLEAN
+INV-10499,2024-12-23,Apex Office Supplies,Catering,3078.02,S.Park,CLEAN
+INV-10370,2024-02-07,Inland Legal Services,Office Supplies,413.44,M.Lee,CLEAN
+INV-10198,2024-12-11,Titan Logistics Co.,Logistics,427.61,C.Choi,CLEAN
+INV-10687,2024-03-31,Meridian IT Solutions,Legal,1290.34,J.Kim,CLEAN
+INV-10584,2024-12-13,Riverfront Catering,Consulting,483.89,S.Park,CLEAN
+INV-10901,2024-10-03,Riverfront Catering,Staffing,272.23,S.Park,CLEAN
+INV-10059,2024-11-26,Inland Legal Services,Marketing,4350.26,C.Choi,CLEAN
+INV-10328,2024-05-01,Titan Logistics Co.,Marketing,753.04,J.Kim,CLEAN
+INV-10096,2024-04-30,Titan Logistics Co.,Marketing,542.46,S.Park,CLEAN
+INV-10312,2024-12-20,Meridian IT Solutions,Software Licenses,3800.45,S.Park,CLEAN
+INV-DLT-N0007,2024-08-22,Delta Management Group,Management,5703.99,S.Park,CLEAN
+INV-10299,2024-05-24,Coastal Marketing Group,Catering,3186.46,C.Choi,CLEAN
+INV-10277,2024-08-08,Apex Office Supplies,Office Supplies,5323.3,S.Park,CLEAN
+INV-10924,2024-07-29,Meridian IT Solutions,Software Licenses,5300.42,S.Park,CLEAN
+INV-10601,2024-04-25,Titan Logistics Co.,Logistics,788.44,C.Choi,CLEAN
+INV-10439,2024-05-07,Meridian IT Solutions,IT Services,7794.06,M.Lee,CLEAN
+INV-10837,2024-06-24,Summit Facilities Mgmt,Marketing,736.18,C.Choi,CLEAN
+INV-10570,2024-07-02,Greenway Staffing,IT Services,1838.26,C.Choi,CLEAN
+INV-10879,2024-08-12,Summit Facilities Mgmt,Catering,1323.97,C.Choi,CLEAN
+INV-10261,2024-04-24,Meridian IT Solutions,Consulting,7772.38,M.Lee,CLEAN
+INV-10578,2024-01-17,Summit Facilities Mgmt,Staffing,91.97,M.Lee,CLEAN
+INV-10023,2024-07-16,Inland Legal Services,Catering,2988.95,C.Choi,CLEAN
+INV-10030,2024-07-04,NovaTech Systems,Marketing,1052.02,S.Park,CLEAN
+INV-10617,2024-10-18,Meridian IT Solutions,Catering,3474.44,M.Lee,CLEAN
+INV-10010,2024-02-05,Greenway Staffing,IT Services,1191.45,S.Park,CLEAN
+INV-10221,2024-02-08,Titan Logistics Co.,Office Supplies,2192.76,S.Park,CLEAN
+INV-10820,2024-10-20,NovaTech Systems,Staffing,5641.46,J.Kim,CLEAN
+INV-10296,2024-09-13,Coastal Marketing Group,Office Supplies,15210.18,J.Kim,CLEAN
+INV-10054,2024-02-11,Apex Office Supplies,Office Supplies,1131.16,J.Kim,CLEAN
+INV-10542,2024-12-20,Riverfront Catering,Catering,11741.24,J.Kim,CLEAN
+INV-10209,2024-06-02,Coastal Marketing Group,Catering,19010.21,M.Lee,CLEAN
+INV-10604,2024-07-07,Titan Logistics Co.,Marketing,2623.05,S.Park,CLEAN
+INV-10692,2024-10-14,Meridian IT Solutions,Software Licenses,136.86,M.Lee,CLEAN
+INV-10662,2024-03-30,Summit Facilities Mgmt,IT Services,1755.52,C.Choi,CLEAN
+INV-10866,2024-05-24,Inland Legal Services,IT Services,2338.53,M.Lee,CLEAN
+INV-10070,2024-05-14,Meridian IT Solutions,Office Supplies,10435.59,C.Choi,CLEAN
+INV-10543,2024-10-01,Coastal Marketing Group,Software Licenses,1705.42,J.Kim,CLEAN
+INV-10107,2024-02-09,Blue Ridge Consulting,Marketing,2115.66,S.Park,CLEAN
+INV-10493,2024-12-08,Titan Logistics Co.,IT Services,170.5,J.Kim,CLEAN
+INV-10590,2024-01-02,NovaTech Systems,Consulting,1928.33,C.Choi,CLEAN
+INV-10741,2024-09-25,Riverfront Catering,Software Licenses,3308.65,J.Kim,CLEAN
+INV-10292,2024-06-29,Summit Facilities Mgmt,Logistics,5363.89,J.Kim,CLEAN
+INV-10289,2024-10-15,NovaTech Systems,Software Licenses,5240.18,C.Choi,CLEAN
+INV-10652,2024-07-20,Riverfront Catering,Consulting,1419.42,J.Kim,CLEAN
+INV-10039,2024-06-18,Titan Logistics Co.,Consulting,491.2,S.Park,CLEAN
+INV-10589,2024-12-21,Riverfront Catering,Legal,171.39,C.Choi,CLEAN
+INV-10307,2024-01-10,Inland Legal Services,Legal,5355.61,M.Lee,CLEAN
+INV-10679,2024-10-26,Riverfront Catering,Facilities,5678.26,S.Park,CLEAN
+INV-10066,2024-02-24,Summit Facilities Mgmt,Logistics,1694.58,S.Park,CLEAN
+INV-10275,2024-04-14,Greenway Staffing,Marketing,2740.49,S.Park,CLEAN
+INV-10067,2024-04-17,Summit Facilities Mgmt,Legal,4461.23,S.Park,CLEAN
+INV-10318,2024-09-03,Summit Facilities Mgmt,Legal,2420.55,J.Kim,CLEAN
+INV-10548,2024-08-25,NovaTech Systems,Software Licenses,2525.09,S.Park,CLEAN
+INV-DUP-0008,2024-08-30,Blue Ridge Consulting,Various,17000.0,M.Lee,DUPLICATE
+INV-10714,2024-02-29,Titan Logistics Co.,Marketing,7892.4,C.Choi,CLEAN
+INV-10753,2024-08-23,Inland Legal Services,Marketing,1157.06,S.Park,CLEAN
+INV-10327,2024-10-07,Blue Ridge Consulting,Software Licenses,890.39,C.Choi,CLEAN
+INV-10382,2024-12-16,NovaTech Systems,Catering,267.33,M.Lee,CLEAN
+INV-10451,2024-09-07,Blue Ridge Consulting,Consulting,1048.53,C.Choi,CLEAN
+INV-10522,2024-08-17,Titan Logistics Co.,Logistics,995.89,C.Choi,CLEAN
+INV-10218,2024-07-31,Summit Facilities Mgmt,Office Supplies,1168.15,S.Park,CLEAN
+INV-10787,2024-05-10,Inland Legal Services,Logistics,638.54,J.Kim,CLEAN
+INV-10436,2024-05-31,Apex Office Supplies,Software Licenses,2056.2,S.Park,CLEAN
+INV-10764,2024-03-06,Summit Facilities Mgmt,Marketing,5086.5,S.Park,CLEAN
+INV-10088,2024-12-06,Inland Legal Services,Legal,1122.39,M.Lee,CLEAN
+INV-10063,2024-08-12,Coastal Marketing Group,Logistics,616.1,M.Lee,CLEAN
+INV-10826,2024-02-28,Coastal Marketing Group,Consulting,1957.79,S.Park,CLEAN
+INV-10716,2024-07-08,Riverfront Catering,Catering,2003.81,M.Lee,CLEAN
+INV-10351,2024-06-29,Coastal Marketing Group,Software Licenses,22759.76,C.Choi,CLEAN
+INV-10936,2024-10-05,Summit Facilities Mgmt,Catering,3964.51,M.Lee,CLEAN
+INV-10256,2024-02-13,Titan Logistics Co.,Consulting,5654.57,C.Choi,CLEAN
+INV-10635,2024-01-02,Blue Ridge Consulting,IT Services,77.1,J.Kim,CLEAN
+INV-10644,2024-09-09,NovaTech Systems,Facilities,1449.29,S.Park,CLEAN
+INV-10554,2024-12-12,Coastal Marketing Group,Office Supplies,10263.22,S.Park,CLEAN
+INV-BLAW-0009,2024-12-26,Titan Logistics Co.,Consulting,9991.23,J.Kim,BENFORD_VIOLATION
+INV-10168,2024-09-09,Summit Facilities Mgmt,Staffing,6824.19,J.Kim,CLEAN
+INV-10917,2024-06-18,Blue Ridge Consulting,Consulting,9233.8,C.Choi,CLEAN
+INV-10528,2024-05-21,Titan Logistics Co.,Catering,2284.15,M.Lee,CLEAN
+INV-10823,2024-11-12,Titan Logistics Co.,Marketing,280.66,S.Park,CLEAN
+INV-DLT-F0003,2024-12-15,Delta Management Group,Management,70653.74,S.Park,RSF_VIOLATION
+INV-10816,2024-03-21,Apex Office Supplies,Logistics,9768.67,C.Choi,CLEAN
+INV-10086,2024-01-23,Greenway Staffing,Catering,4121.04,J.Kim,CLEAN
+INV-10432,2024-02-24,Summit Facilities Mgmt,Legal,6710.41,M.Lee,CLEAN
+INV-10184,2024-05-29,Meridian IT Solutions,Logistics,6929.73,M.Lee,CLEAN
+INV-DLT-N0011,2024-04-22,Delta Management Group,Management,5692.28,S.Park,CLEAN
+INV-10534,2024-07-22,Coastal Marketing Group,Legal,1005.61,M.Lee,CLEAN
+INV-10294,2024-02-16,Summit Facilities Mgmt,Software Licenses,2493.18,C.Choi,CLEAN
+INV-10892,2024-12-03,NovaTech Systems,Marketing,4722.09,S.Park,CLEAN
+INV-10425,2024-06-18,Apex Office Supplies,Staffing,6196.68,J.Kim,CLEAN
+INV-10713,2024-04-15,Blue Ridge Consulting,Office Supplies,2589.51,M.Lee,CLEAN
+INV-10260,2024-06-29,Summit Facilities Mgmt,Consulting,4235.04,S.Park,CLEAN
+INV-10237,2024-03-05,Coastal Marketing Group,Software Licenses,2138.39,S.Park,CLEAN
+INV-10559,2024-02-02,Summit Facilities Mgmt,Software Licenses,264.81,J.Kim,CLEAN
+INV-10583,2024-05-29,Coastal Marketing Group,Marketing,3907.66,M.Lee,CLEAN
+INV-10445,2024-11-06,NovaTech Systems,Legal,3303.39,C.Choi,CLEAN
+INV-10867,2024-08-16,Riverfront Catering,Staffing,563.66,J.Kim,CLEAN
+INV-10800,2024-01-26,Summit Facilities Mgmt,Consulting,4206.79,S.Park,CLEAN
+INV-10599,2024-12-24,Inland Legal Services,Facilities,10552.42,C.Choi,CLEAN
+INV-10849,2024-12-16,Inland Legal Services,Legal,1121.14,J.Kim,CLEAN
+INV-10265,2024-06-07,Meridian IT Solutions,Legal,588.16,M.Lee,CLEAN
+INV-DUP-0005,2024-09-10,Apex Office Supplies,Various,2350.5,M.Lee,DUPLICATE
+INV-10529,2024-07-03,NovaTech Systems,Marketing,163.32,S.Park,CLEAN
+INV-10055,2024-04-30,Greenway Staffing,Catering,4180.36,J.Kim,CLEAN
+INV-10120,2024-07-13,Coastal Marketing Group,Marketing,889.83,C.Choi,CLEAN
+INV-10215,2024-11-13,Blue Ridge Consulting,Marketing,13784.2,S.Park,CLEAN
+INV-10025,2024-11-24,Riverfront Catering,Legal,450.75,J.Kim,CLEAN
+INV-10072,2024-12-19,Titan Logistics Co.,Office Supplies,389.23,J.Kim,CLEAN
+INV-10044,2024-02-25,Inland Legal Services,Facilities,91.97,S.Park,CLEAN
+INV-10247,2024-01-16,NovaTech Systems,IT Services,5129.02,C.Choi,CLEAN
+INV-10721,2024-07-17,Riverfront Catering,Logistics,387.94,C.Choi,CLEAN
+INV-10281,2024-11-23,Greenway Staffing,Catering,12880.78,M.Lee,CLEAN
+INV-10893,2024-06-10,Greenway Staffing,Catering,18370.6,S.Park,CLEAN
+INV-10914,2024-03-12,Greenway Staffing,Staffing,1659.44,S.Park,CLEAN
+INV-10810,2024-09-06,Meridian IT Solutions,Consulting,7109.52,C.Choi,CLEAN
+INV-10244,2024-02-02,Riverfront Catering,Staffing,613.84,C.Choi,CLEAN
+INV-10822,2024-01-19,Titan Logistics Co.,Logistics,40506.94,J.Kim,CLEAN
+INV-10321,2024-04-23,Titan Logistics Co.,Staffing,731.54,M.Lee,CLEAN
+INV-10643,2024-06-04,Summit Facilities Mgmt,Software Licenses,2829.34,S.Park,CLEAN
+INV-10158,2024-08-14,Riverfront Catering,Marketing,618.83,C.Choi,CLEAN
+INV-DLT-N0010,2024-02-04,Delta Management Group,Management,4956.68,S.Park,CLEAN
+INV-10429,2024-01-20,Riverfront Catering,Office Supplies,69.5,C.Choi,CLEAN
+INV-10941,2024-12-14,Greenway Staffing,Catering,3964.8,S.Park,CLEAN
+INV-10462,2024-04-27,Riverfront Catering,Facilities,963.19,C.Choi,CLEAN
+INV-10309,2024-03-20,Blue Ridge Consulting,Consulting,329.58,M.Lee,CLEAN
+INV-10697,2024-06-12,Titan Logistics Co.,Office Supplies,586.4,J.Kim,CLEAN
+INV-10060,2024-02-07,Coastal Marketing Group,IT Services,249.84,C.Choi,CLEAN
+INV-10884,2024-07-20,Apex Office Supplies,Logistics,13060.19,J.Kim,CLEAN
+INV-10595,2024-03-21,NovaTech Systems,Staffing,1142.51,C.Choi,CLEAN
+INV-10767,2024-03-01,Greenway Staffing,Staffing,8899.23,J.Kim,CLEAN
+INV-10649,2024-03-13,Apex Office Supplies,Marketing,809.33,J.Kim,CLEAN
+INV-10650,2024-09-23,Apex Office Supplies,Catering,2563.06,M.Lee,CLEAN
+INV-10865,2024-06-13,Apex Office Supplies,Catering,6177.13,J.Kim,CLEAN
+INV-10668,2024-06-18,Meridian IT Solutions,Consulting,166.36,J.Kim,CLEAN
+INV-10298,2024-08-12,Apex Office Supplies,Staffing,3757.75,S.Park,CLEAN
+INV-10689,2024-02-07,Riverfront Catering,Legal,629.08,C.Choi,CLEAN
+INV-10314,2024-08-17,Greenway Staffing,Facilities,5854.3,S.Park,CLEAN
+INV-10310,2024-10-03,Titan Logistics Co.,Logistics,6957.83,J.Kim,CLEAN
+INV-10361,2024-04-19,Summit Facilities Mgmt,Software Licenses,1868.22,M.Lee,CLEAN
+INV-10479,2024-10-27,Titan Logistics Co.,Logistics,4952.35,S.Park,CLEAN
+INV-10110,2024-06-18,Titan Logistics Co.,Logistics,2115.11,C.Choi,CLEAN
+INV-DLT-F0007,2024-10-05,Delta Management Group,Management,64763.02,S.Park,RSF_VIOLATION
+INV-10486,2024-10-15,Coastal Marketing Group,Facilities,5153.33,S.Park,CLEAN
+INV-10363,2024-08-15,Meridian IT Solutions,Consulting,602.88,M.Lee,CLEAN
+INV-10254,2024-02-18,NovaTech Systems,Legal,460.62,C.Choi,CLEAN
+INV-10259,2024-12-06,Inland Legal Services,Catering,3630.66,J.Kim,CLEAN
+INV-10802,2024-01-24,Titan Logistics Co.,IT Services,1971.42,S.Park,CLEAN
+INV-10677,2024-01-14,Inland Legal Services,Legal,8752.05,S.Park,CLEAN
+INV-10494,2024-11-18,Inland Legal Services,Facilities,7121.06,J.Kim,CLEAN
+INV-10670,2024-12-15,NovaTech Systems,Catering,5549.58,S.Park,CLEAN
+INV-10377,2024-10-30,Riverfront Catering,Software Licenses,9212.71,S.Park,CLEAN
+INV-10526,2024-12-16,Greenway Staffing,Catering,2593.39,S.Park,CLEAN
+INV-10845,2024-03-23,Summit Facilities Mgmt,Marketing,660.14,M.Lee,CLEAN
+INV-10137,2024-06-15,Coastal Marketing Group,Office Supplies,1353.09,C.Choi,CLEAN
+INV-10355,2024-11-26,Meridian IT Solutions,Legal,733.42,M.Lee,CLEAN
+INV-10365,2024-12-30,Summit Facilities Mgmt,Office Supplies,270.1,M.Lee,CLEAN
+INV-10942,2024-10-12,Inland Legal Services,Staffing,12773.66,S.Park,CLEAN
+INV-10749,2024-12-12,Blue Ridge Consulting,Facilities,3027.03,M.Lee,CLEAN
+INV-10948,2024-11-03,Meridian IT Solutions,Catering,7848.59,J.Kim,CLEAN
+INV-10829,2024-11-08,Inland Legal Services,Facilities,1403.04,S.Park,CLEAN
+INV-10656,2024-02-24,Greenway Staffing,Office Supplies,1830.85,C.Choi,CLEAN
+INV-10199,2024-09-06,Coastal Marketing Group,Logistics,3640.66,J.Kim,CLEAN
+INV-10213,2024-12-17,Apex Office Supplies,IT Services,12784.31,C.Choi,CLEAN
+INV-10408,2024-10-23,Summit Facilities Mgmt,Software Licenses,455.0,S.Park,CLEAN
+INV-10332,2024-05-03,Apex Office Supplies,Software Licenses,8544.67,C.Choi,CLEAN
+INV-10208,2024-03-21,Summit Facilities Mgmt,Consulting,11620.59,C.Choi,CLEAN
+INV-10613,2024-04-06,Riverfront Catering,Catering,3685.49,M.Lee,CLEAN
+INV-10078,2024-12-25,Summit Facilities Mgmt,Consulting,1963.7,C.Choi,CLEAN
+INV-10029,2024-09-28,Riverfront Catering,IT Services,301.36,M.Lee,CLEAN
+INV-10535,2024-05-04,NovaTech Systems,Legal,423.01,C.Choi,CLEAN
+INV-10695,2024-11-04,Greenway Staffing,Legal,1368.41,S.Park,CLEAN
+INV-10557,2024-11-10,Inland Legal Services,Facilities,1225.0,C.Choi,CLEAN
+INV-10836,2024-08-02,Riverfront Catering,Software Licenses,1901.69,S.Park,CLEAN
+INV-10596,2024-08-07,Apex Office Supplies,Facilities,308.01,S.Park,CLEAN
+INV-10165,2024-04-25,Inland Legal Services,Office Supplies,2621.5,M.Lee,CLEAN
+INV-10918,2024-10-29,NovaTech Systems,Office Supplies,5928.32,C.Choi,CLEAN
+INV-10495,2024-09-15,Meridian IT Solutions,Staffing,2936.63,M.Lee,CLEAN
+INV-10824,2024-07-05,NovaTech Systems,IT Services,258.4,S.Park,CLEAN
+INV-10065,2024-12-05,Riverfront Catering,Consulting,6127.95,S.Park,CLEAN
+INV-10141,2024-05-03,NovaTech Systems,Staffing,20231.58,C.Choi,CLEAN
+INV-10925,2024-04-03,Greenway Staffing,Software Licenses,87.95,M.Lee,CLEAN
+INV-10827,2024-11-20,Apex Office Supplies,Marketing,1129.38,M.Lee,CLEAN
+INV-10655,2024-02-08,NovaTech Systems,Facilities,1907.02,S.Park,CLEAN
+INV-10331,2024-03-14,Riverfront Catering,Marketing,4323.94,C.Choi,CLEAN
+INV-10664,2024-03-12,NovaTech Systems,Consulting,951.88,J.Kim,CLEAN
+INV-10249,2024-06-13,Titan Logistics Co.,Software Licenses,604.85,S.Park,CLEAN
+INV-10907,2024-07-08,Blue Ridge Consulting,Facilities,3539.1,J.Kim,CLEAN
+INV-10708,2024-06-18,Meridian IT Solutions,Facilities,277.62,S.Park,CLEAN
+INV-10305,2024-02-13,Greenway Staffing,Marketing,453.65,C.Choi,CLEAN
+INV-10734,2024-06-18,Apex Office Supplies,Facilities,4565.3,J.Kim,CLEAN
+INV-DLT-N0008,2024-10-27,Delta Management Group,Management,6155.06,S.Park,CLEAN
+INV-10049,2024-03-25,Inland Legal Services,Catering,69.2,J.Kim,CLEAN
+INV-10896,2024-06-05,NovaTech Systems,Staffing,1555.56,J.Kim,CLEAN
+INV-10002,2024-01-16,Greenway Staffing,Consulting,12751.22,S.Park,CLEAN
+INV-10544,2024-12-02,Titan Logistics Co.,Legal,34.07,S.Park,CLEAN
+INV-10350,2024-08-06,NovaTech Systems,Office Supplies,10073.22,C.Choi,CLEAN
+INV-10904,2024-05-02,Riverfront Catering,Software Licenses,2147.35,S.Park,CLEAN
+INV-10536,2024-07-20,Summit Facilities Mgmt,Legal,170.65,J.Kim,CLEAN
+INV-10344,2024-06-18,Apex Office Supplies,Marketing,251.88,J.Kim,CLEAN
+INV-DUP-0004,2024-09-10,Apex Office Supplies,Various,2350.5,M.Lee,DUPLICATE
+INV-10481,2024-03-01,Blue Ridge Consulting,Staffing,155.16,S.Park,CLEAN
+INV-10575,2024-09-10,NovaTech Systems,Logistics,1723.66,J.Kim,CLEAN
+INV-10033,2024-03-25,NovaTech Systems,Marketing,140.09,C.Choi,CLEAN
+INV-10031,2024-10-17,Apex Office Supplies,Consulting,9576.34,J.Kim,CLEAN
+INV-10231,2024-03-20,Greenway Staffing,Catering,500.93,J.Kim,CLEAN
+INV-SHELL-0001,2024-08-20,Alpha Business Services LLC,Consulting,859074.09,J.Kim,OUTLIER_SHELL
+INV-10192,2024-07-29,Blue Ridge Consulting,IT Services,499.74,M.Lee,CLEAN
+INV-10333,2024-02-13,Meridian IT Solutions,Logistics,5044.16,M.Lee,CLEAN
+INV-10003,2024-01-14,Blue Ridge Consulting,Logistics,23532.1,S.Park,CLEAN
+INV-10204,2024-10-16,Blue Ridge Consulting,Office Supplies,3089.09,S.Park,CLEAN
+INV-10514,2024-10-31,Greenway Staffing,Catering,226.61,M.Lee,CLEAN
+INV-10799,2024-11-25,Titan Logistics Co.,Facilities,415.61,C.Choi,CLEAN
+INV-10306,2024-12-09,Coastal Marketing Group,Logistics,1447.6,J.Kim,CLEAN
+INV-10109,2024-12-21,Meridian IT Solutions,Office Supplies,1690.87,S.Park,CLEAN
+INV-10430,2024-01-19,Meridian IT Solutions,Catering,123.56,C.Choi,CLEAN
+INV-10077,2024-06-19,Inland Legal Services,Catering,1381.46,S.Park,CLEAN
+INV-10084,2024-08-10,Apex Office Supplies,Legal,873.37,M.Lee,CLEAN
+INV-10286,2024-06-27,Riverfront Catering,Legal,7286.29,S.Park,CLEAN
+INV-10082,2024-07-23,Coastal Marketing Group,Logistics,22800.23,M.Lee,CLEAN
+INV-DUP-0001,2024-03-15,Meridian IT Solutions,Various,12450.0,M.Lee,DUPLICATE
+INV-10789,2024-08-01,Apex Office Supplies,Staffing,2533.42,C.Choi,CLEAN
+INV-10894,2024-04-23,Apex Office Supplies,Catering,6272.58,M.Lee,CLEAN
+INV-10398,2024-11-15,Riverfront Catering,Software Licenses,1630.94,J.Kim,CLEAN
+INV-10323,2024-02-11,Blue Ridge Consulting,Legal,11886.38,S.Park,CLEAN
+INV-10519,2024-11-20,Inland Legal Services,Office Supplies,855.24,C.Choi,CLEAN
+INV-10916,2024-07-04,Meridian IT Solutions,Software Licenses,3124.74,J.Kim,CLEAN
+INV-10922,2024-11-22,Greenway Staffing,IT Services,460.8,M.Lee,CLEAN
+INV-10005,2024-03-22,Apex Office Supplies,Catering,319.21,M.Lee,CLEAN
+INV-10731,2024-02-21,Titan Logistics Co.,Marketing,4085.25,M.Lee,CLEAN
+INV-10465,2024-01-18,Titan Logistics Co.,Staffing,1481.97,J.Kim,CLEAN
+INV-10097,2024-01-24,Blue Ridge Consulting,Facilities,2286.89,C.Choi,CLEAN
+INV-10266,2024-03-14,Apex Office Supplies,Software Licenses,7857.08,C.Choi,CLEAN
+INV-10357,2024-07-09,NovaTech Systems,Staffing,302.28,J.Kim,CLEAN
+INV-10868,2024-04-08,Summit Facilities Mgmt,Legal,779.42,J.Kim,CLEAN
+INV-10798,2024-03-17,Greenway Staffing,Consulting,8265.31,J.Kim,CLEAN
+INV-10380,2024-08-01,Blue Ridge Consulting,Software Licenses,174.21,J.Kim,CLEAN
+INV-10631,2024-05-19,Coastal Marketing Group,Logistics,1862.27,J.Kim,CLEAN
+INV-10381,2024-10-06,NovaTech Systems,Marketing,221.54,M.Lee,CLEAN
+INV-10490,2024-09-07,Summit Facilities Mgmt,Staffing,400.23,C.Choi,CLEAN
+INV-10118,2024-08-24,Inland Legal Services,Office Supplies,5057.06,J.Kim,CLEAN
+INV-10900,2024-01-19,Greenway Staffing,Logistics,2519.48,M.Lee,CLEAN
+INV-10250,2024-11-15,Titan Logistics Co.,Software Licenses,581.26,M.Lee,CLEAN
+INV-10523,2024-06-30,Titan Logistics Co.,Logistics,3021.59,J.Kim,CLEAN
+INV-10009,2024-11-17,Titan Logistics Co.,Software Licenses,11846.55,M.Lee,CLEAN
+INV-10196,2024-07-28,Apex Office Supplies,Office Supplies,166.69,J.Kim,CLEAN
+INV-10603,2024-04-27,Meridian IT Solutions,Catering,20930.16,J.Kim,CLEAN
+INV-10081,2024-05-22,Blue Ridge Consulting,Consulting,2493.4,M.Lee,CLEAN
+INV-10783,2024-09-07,Coastal Marketing Group,Legal,742.92,S.Park,CLEAN
+INV-10587,2024-11-19,NovaTech Systems,Marketing,841.46,C.Choi,CLEAN
+INV-10797,2024-01-07,Coastal Marketing Group,Consulting,3338.75,J.Kim,CLEAN
+INV-10239,2024-03-16,Blue Ridge Consulting,Software Licenses,3893.99,J.Kim,CLEAN
+INV-10290,2024-11-15,Greenway Staffing,Legal,7004.54,M.Lee,CLEAN
+INV-10211,2024-10-19,Titan Logistics Co.,Legal,5024.14,M.Lee,CLEAN
+INV-10717,2024-05-14,Meridian IT Solutions,Staffing,9002.08,C.Choi,CLEAN
+INV-10359,2024-02-28,Summit Facilities Mgmt,IT Services,858.76,S.Park,CLEAN
+INV-10449,2024-09-15,Apex Office Supplies,Facilities,139.88,S.Park,CLEAN
+INV-10227,2024-08-25,Titan Logistics Co.,Marketing,3810.74,C.Choi,CLEAN
+INV-BLAW-0000,2024-07-24,Greenway Staffing,Consulting,993.23,J.Kim,BENFORD_VIOLATION
+INV-10946,2024-06-22,Blue Ridge Consulting,Logistics,2785.36,J.Kim,CLEAN
+INV-10796,2024-09-11,Meridian IT Solutions,Facilities,1744.81,C.Choi,CLEAN
+INV-10501,2024-05-09,Blue Ridge Consulting,Legal,30840.73,M.Lee,CLEAN
+INV-10464,2024-01-09,Inland Legal Services,Facilities,7490.35,S.Park,CLEAN
+INV-10362,2024-03-10,NovaTech Systems,Consulting,1639.45,C.Choi,CLEAN
+INV-10468,2024-10-21,Blue Ridge Consulting,Legal,237.34,M.Lee,CLEAN
+INV-10935,2024-09-01,Inland Legal Services,Facilities,1150.73,J.Kim,CLEAN
+INV-10428,2024-02-15,Summit Facilities Mgmt,Software Licenses,16998.78,S.Park,CLEAN
+INV-10007,2024-06-25,Inland Legal Services,Software Licenses,3607.21,M.Lee,CLEAN
+INV-10155,2024-02-07,Titan Logistics Co.,Software Licenses,4914.54,J.Kim,CLEAN
+INV-10541,2024-11-02,Inland Legal Services,Staffing,654.1,C.Choi,CLEAN
+INV-10440,2024-05-16,Inland Legal Services,Legal,2554.62,M.Lee,CLEAN
+INV-10482,2024-07-22,Greenway Staffing,Facilities,80.93,M.Lee,CLEAN
+INV-10422,2024-04-19,Summit Facilities Mgmt,Facilities,314.52,M.Lee,CLEAN
+INV-10778,2024-12-12,Riverfront Catering,IT Services,1690.89,S.Park,CLEAN
+INV-10949,2024-07-08,Titan Logistics Co.,Consulting,2250.72,J.Kim,CLEAN
+INV-10334,2024-10-05,Titan Logistics Co.,Logistics,1069.69,J.Kim,CLEAN
+INV-10576,2024-10-05,Greenway Staffing,Legal,2235.13,J.Kim,CLEAN
+INV-10934,2024-12-22,Greenway Staffing,Software Licenses,626.42,J.Kim,CLEAN
+INV-10567,2024-07-15,Greenway Staffing,Catering,729.76,S.Park,CLEAN
+INV-10594,2024-01-25,Coastal Marketing Group,IT Services,1138.58,J.Kim,CLEAN
+INV-10530,2024-04-10,NovaTech Systems,Staffing,12670.28,J.Kim,CLEAN
+INV-10581,2024-04-15,Meridian IT Solutions,Facilities,6058.99,J.Kim,CLEAN
+INV-10707,2024-03-25,Inland Legal Services,Software Licenses,2332.73,C.Choi,CLEAN
+INV-10448,2024-02-09,Riverfront Catering,Software Licenses,241.32,J.Kim,CLEAN
+INV-10453,2024-08-24,Greenway Staffing,Marketing,2845.92,J.Kim,CLEAN
+INV-10228,2024-01-20,Titan Logistics Co.,Marketing,949.78,C.Choi,CLEAN
+INV-10352,2024-01-30,Summit Facilities Mgmt,Consulting,14770.12,C.Choi,CLEAN
+INV-10728,2024-06-15,Riverfront Catering,Marketing,1112.33,C.Choi,CLEAN
+INV-10212,2024-12-03,Summit Facilities Mgmt,Catering,4266.72,M.Lee,CLEAN
+INV-10079,2024-04-23,Apex Office Supplies,Facilities,55.28,C.Choi,CLEAN
+INV-10148,2024-05-21,Blue Ridge Consulting,Software Licenses,679.9,M.Lee,CLEAN
+INV-10302,2024-12-02,Summit Facilities Mgmt,Software Licenses,851.75,S.Park,CLEAN
+INV-10628,2024-12-25,Apex Office Supplies,IT Services,426.55,S.Park,CLEAN
+INV-10777,2024-07-10,Apex Office Supplies,IT Services,6814.02,M.Lee,CLEAN
+INV-10506,2024-02-18,Coastal Marketing Group,Logistics,5352.53,J.Kim,CLEAN
+INV-10342,2024-10-05,Summit Facilities Mgmt,Staffing,9618.82,M.Lee,CLEAN
+INV-10485,2024-06-12,NovaTech Systems,Facilities,97.29,M.Lee,CLEAN
+INV-10711,2024-01-02,Meridian IT Solutions,Catering,1657.32,J.Kim,CLEAN
+INV-10133,2024-09-24,Inland Legal Services,Marketing,2768.98,C.Choi,CLEAN
+INV-10703,2024-01-18,NovaTech Systems,Marketing,508.97,J.Kim,CLEAN
+INV-10311,2024-11-12,Coastal Marketing Group,Office Supplies,1210.49,C.Choi,CLEAN
+INV-10722,2024-08-31,Riverfront Catering,Software Licenses,3153.51,S.Park,CLEAN
+INV-10629,2024-09-24,NovaTech Systems,Logistics,1204.95,M.Lee,CLEAN
+INV-10000,2024-05-20,Titan Logistics Co.,Facilities,2827.2,S.Park,CLEAN
+INV-10316,2024-08-24,Greenway Staffing,Marketing,797.88,C.Choi,CLEAN
+INV-10706,2024-11-10,Coastal Marketing Group,Staffing,3306.68,J.Kim,CLEAN
+INV-10547,2024-10-12,Riverfront Catering,Software Licenses,329.3,S.Park,CLEAN
+INV-10872,2024-06-18,Meridian IT Solutions,IT Services,522.49,J.Kim,CLEAN
+INV-10532,2024-08-08,Coastal Marketing Group,Software Licenses,7736.81,S.Park,CLEAN
+INV-10477,2024-02-17,NovaTech Systems,Logistics,550.73,S.Park,CLEAN
+INV-10404,2024-06-02,Greenway Staffing,Software Licenses,257.22,M.Lee,CLEAN
+INV-10172,2024-10-26,Summit Facilities Mgmt,Catering,1686.83,C.Choi,CLEAN
+INV-10125,2024-07-07,NovaTech Systems,Office Supplies,37545.88,J.Kim,CLEAN
+INV-10394,2024-02-25,Summit Facilities Mgmt,Catering,18501.52,S.Park,CLEAN
+INV-10420,2024-03-15,Inland Legal Services,Marketing,3167.66,J.Kim,CLEAN
+INV-10552,2024-08-12,Coastal Marketing Group,Staffing,18351.15,M.Lee,CLEAN
+INV-10903,2024-02-16,NovaTech Systems,Catering,19829.31,M.Lee,CLEAN
+INV-10090,2024-12-22,Inland Legal Services,Marketing,1973.12,S.Park,CLEAN
+INV-10939,2024-03-20,Inland Legal Services,Catering,1088.25,M.Lee,CLEAN
+INV-10181,2024-11-07,Apex Office Supplies,Facilities,171.2,S.Park,CLEAN
+INV-10274,2024-01-24,Riverfront Catering,Facilities,4076.3,C.Choi,CLEAN
+INV-10895,2024-06-18,Coastal Marketing Group,Staffing,3241.65,C.Choi,CLEAN
+INV-10069,2024-01-23,Inland Legal Services,IT Services,211.64,M.Lee,CLEAN
+INV-10291,2024-08-28,Meridian IT Solutions,Staffing,5738.19,M.Lee,CLEAN
+INV-10131,2024-01-07,Riverfront Catering,Catering,8501.47,C.Choi,CLEAN
+INV-10300,2024-01-27,Coastal Marketing Group,Legal,4535.56,J.Kim,CLEAN
+INV-10424,2024-09-28,Blue Ridge Consulting,Facilities,3231.94,S.Park,CLEAN
+INV-10326,2024-02-10,NovaTech Systems,IT Services,18227.33,M.Lee,CLEAN
+INV-10144,2024-06-25,NovaTech Systems,Catering,9719.78,M.Lee,CLEAN
+INV-10423,2024-03-11,Riverfront Catering,Consulting,15996.09,S.Park,CLEAN
+INV-10580,2024-10-28,Blue Ridge Consulting,Legal,2451.97,C.Choi,CLEAN
+INV-10135,2024-02-14,Blue Ridge Consulting,Marketing,1900.62,C.Choi,CLEAN
+INV-10450,2024-09-23,Meridian IT Solutions,Staffing,1708.87,J.Kim,CLEAN
+INV-10164,2024-05-15,Titan Logistics Co.,Software Licenses,15904.59,S.Park,CLEAN
+INV-10028,2024-03-19,Riverfront Catering,Legal,5321.73,S.Park,CLEAN
+INV-10773,2024-03-31,Coastal Marketing Group,Legal,16007.11,J.Kim,CLEAN
+INV-10193,2024-07-14,NovaTech Systems,Catering,116.08,S.Park,CLEAN
+INV-10388,2024-01-26,Blue Ridge Consulting,Marketing,4253.01,C.Choi,CLEAN
+INV-10852,2024-03-31,Blue Ridge Consulting,Consulting,1018.77,S.Park,CLEAN
+INV-10169,2024-08-09,Greenway Staffing,Legal,917.49,M.Lee,CLEAN
+INV-10705,2024-03-23,Meridian IT Solutions,Consulting,739.53,J.Kim,CLEAN
+INV-10140,2024-02-13,Riverfront Catering,Facilities,506.47,C.Choi,CLEAN
+INV-10173,2024-07-28,Titan Logistics Co.,Legal,10288.75,M.Lee,CLEAN
+INV-10006,2024-06-21,Summit Facilities Mgmt,Consulting,7489.76,J.Kim,CLEAN
+INV-10745,2024-09-07,Apex Office Supplies,Software Licenses,940.89,C.Choi,CLEAN
+INV-10478,2024-12-10,Apex Office Supplies,Software Licenses,28882.55,J.Kim,CLEAN
+INV-10073,2024-03-16,Coastal Marketing Group,Catering,24227.67,S.Park,CLEAN
+INV-10910,2024-05-20,Riverfront Catering,Marketing,6532.57,S.Park,CLEAN
+INV-10813,2024-12-18,Coastal Marketing Group,Software Licenses,9298.31,J.Kim,CLEAN
+INV-10238,2024-10-10,Titan Logistics Co.,Facilities,208.14,S.Park,CLEAN
+INV-10145,2024-05-18,Coastal Marketing Group,Marketing,881.67,M.Lee,CLEAN
+INV-10792,2024-03-11,Greenway Staffing,Catering,9799.68,J.Kim,CLEAN
+INV-10234,2024-11-26,Coastal Marketing Group,Legal,36343.14,J.Kim,CLEAN
+INV-10220,2024-09-03,Meridian IT Solutions,Marketing,14518.7,M.Lee,CLEAN
+INV-10923,2024-11-06,Titan Logistics Co.,Staffing,962.84,C.Choi,CLEAN
+INV-10500,2024-09-25,Titan Logistics Co.,Office Supplies,1018.59,S.Park,CLEAN
+INV-10132,2024-07-04,Titan Logistics Co.,Staffing,3852.15,S.Park,CLEAN
+INV-DUP-0000,2024-03-15,Meridian IT Solutions,Various,12450.0,M.Lee,DUPLICATE
+INV-10774,2024-04-17,Apex Office Supplies,Office Supplies,12522.31,S.Park,CLEAN
+INV-10185,2024-08-29,Inland Legal Services,Facilities,823.86,C.Choi,CLEAN
+INV-10041,2024-05-04,Greenway Staffing,Staffing,9135.82,C.Choi,CLEAN
+INV-10696,2024-09-11,Greenway Staffing,Office Supplies,2424.84,M.Lee,CLEAN
+INV-10108,2024-10-03,Summit Facilities Mgmt,Consulting,2279.69,S.Park,CLEAN
+INV-10588,2024-11-20,Inland Legal Services,Consulting,14490.3,C.Choi,CLEAN
+INV-10056,2024-10-31,Greenway Staffing,IT Services,849.55,J.Kim,CLEAN
+INV-10405,2024-09-29,Riverfront Catering,Staffing,752.09,M.Lee,CLEAN
+INV-10442,2024-03-01,Blue Ridge Consulting,Staffing,281.27,M.Lee,CLEAN
+INV-10757,2024-05-21,Summit Facilities Mgmt,Marketing,9222.35,M.Lee,CLEAN
+INV-DUP-0007,2024-11-05,NovaTech Systems,Various,34200.0,M.Lee,DUPLICATE
+INV-10024,2024-10-10,Riverfront Catering,IT Services,1107.72,J.Kim,CLEAN
+INV-10467,2024-01-29,Riverfront Catering,Office Supplies,3575.13,M.Lee,CLEAN
+INV-10539,2024-07-28,Titan Logistics Co.,Staffing,226.58,S.Park,CLEAN
+INV-10531,2024-07-21,Meridian IT Solutions,Legal,405.3,C.Choi,CLEAN
+INV-10618,2024-08-29,Riverfront Catering,Consulting,11346.97,J.Kim,CLEAN
+INV-10694,2024-01-01,Summit Facilities Mgmt,Software Licenses,3083.41,C.Choi,CLEAN
+INV-10926,2024-06-24,Meridian IT Solutions,Staffing,230.69,J.Kim,CLEAN
+INV-10338,2024-10-06,Meridian IT Solutions,Legal,2621.86,S.Park,CLEAN
+INV-10051,2024-09-06,Riverfront Catering,Office Supplies,6188.47,S.Park,CLEAN
+INV-10507,2024-12-20,Blue Ridge Consulting,Software Licenses,830.82,C.Choi,CLEAN
+INV-10516,2024-07-11,Coastal Marketing Group,Catering,11506.21,S.Park,CLEAN
+INV-10920,2024-01-21,Meridian IT Solutions,Software Licenses,17180.7,S.Park,CLEAN
+INV-10781,2024-06-01,Titan Logistics Co.,Marketing,106.13,C.Choi,CLEAN
+INV-10264,2024-12-21,Greenway Staffing,Marketing,313.38,J.Kim,CLEAN
+INV-10817,2024-02-08,NovaTech Systems,Staffing,982.04,M.Lee,CLEAN
+INV-10710,2024-01-26,Summit Facilities Mgmt,Catering,2186.19,C.Choi,CLEAN
+INV-10682,2024-06-11,Meridian IT Solutions,Legal,1127.7,J.Kim,CLEAN
+INV-10832,2024-08-18,Greenway Staffing,Staffing,732.36,S.Park,CLEAN
+INV-10518,2024-02-12,Blue Ridge Consulting,Marketing,445.56,S.Park,CLEAN
+INV-10447,2024-02-11,Greenway Staffing,Logistics,157.61,C.Choi,CLEAN
+INV-10018,2024-07-21,Blue Ridge Consulting,Staffing,4291.46,S.Park,CLEAN
+INV-10715,2024-12-04,NovaTech Systems,Marketing,17541.26,J.Kim,CLEAN
+INV-10483,2024-09-30,Summit Facilities Mgmt,Legal,2171.38,M.Lee,CLEAN
+INV-10568,2024-12-21,NovaTech Systems,Office Supplies,2187.35,S.Park,CLEAN
+INV-10433,2024-10-05,NovaTech Systems,Logistics,826.78,C.Choi,CLEAN
+INV-10367,2024-10-10,NovaTech Systems,Software Licenses,1828.65,M.Lee,CLEAN
+INV-10083,2024-05-13,Apex Office Supplies,Office Supplies,1134.06,M.Lee,CLEAN
+INV-10061,2024-02-21,Greenway Staffing,Consulting,335.07,S.Park,CLEAN
+INV-10638,2024-08-01,Blue Ridge Consulting,Legal,566.25,M.Lee,CLEAN
+INV-10272,2024-09-19,Inland Legal Services,Consulting,5150.49,M.Lee,CLEAN
+INV-10285,2024-03-27,Coastal Marketing Group,Consulting,312.04,J.Kim,CLEAN
+INV-10360,2024-10-14,NovaTech Systems,Consulting,11655.61,M.Lee,CLEAN
+INV-10354,2024-12-13,Meridian IT Solutions,Staffing,395.83,J.Kim,CLEAN
+INV-10456,2024-08-29,Titan Logistics Co.,IT Services,362.48,M.Lee,CLEAN
+INV-10278,2024-04-27,Inland Legal Services,Logistics,8508.84,M.Lee,CLEAN
+INV-10012,2024-07-05,Summit Facilities Mgmt,Office Supplies,9598.61,M.Lee,CLEAN
+INV-10182,2024-10-09,Summit Facilities Mgmt,Catering,3829.06,J.Kim,CLEAN
+INV-10368,2024-10-09,NovaTech Systems,Office Supplies,444.82,J.Kim,CLEAN
+INV-10881,2024-10-06,Inland Legal Services,Marketing,237.25,S.Park,CLEAN
+INV-10615,2024-11-22,Titan Logistics Co.,Software Licenses,2031.03,J.Kim,CLEAN
+INV-10223,2024-10-01,Inland Legal Services,Consulting,423.5,C.Choi,CLEAN
+INV-10572,2024-07-31,Inland Legal Services,Staffing,10186.81,C.Choi,CLEAN
+INV-DLT-N0003,2024-10-21,Delta Management Group,Management,4625.35,S.Park,CLEAN
+INV-10653,2024-03-07,Inland Legal Services,Facilities,3734.73,M.Lee,CLEAN
+INV-10545,2024-11-26,Greenway Staffing,Catering,882.53,M.Lee,CLEAN
+INV-10582,2024-05-23,Greenway Staffing,Software Licenses,3195.52,S.Park,CLEAN
+INV-10633,2024-01-29,NovaTech Systems,Staffing,6010.02,S.Park,CLEAN
+INV-10176,2024-05-09,NovaTech Systems,Legal,1829.32,J.Kim,CLEAN
+INV-10665,2024-04-23,Apex Office Supplies,Office Supplies,448.73,S.Park,CLEAN
+INV-10673,2024-10-08,Summit Facilities Mgmt,Staffing,6247.84,J.Kim,CLEAN
+INV-10585,2024-05-21,Inland Legal Services,Office Supplies,517.09,S.Park,CLEAN
+INV-10873,2024-05-08,Titan Logistics Co.,Logistics,936.51,J.Kim,CLEAN
+INV-10393,2024-09-10,Apex Office Supplies,Software Licenses,9398.57,C.Choi,CLEAN
+INV-10163,2024-12-27,Apex Office Supplies,Marketing,863.84,C.Choi,CLEAN
+INV-10248,2024-02-25,Inland Legal Services,Staffing,27884.27,C.Choi,CLEAN
+INV-10634,2024-02-22,Coastal Marketing Group,Software Licenses,727.13,J.Kim,CLEAN
+INV-10885,2024-06-25,Summit Facilities Mgmt,Facilities,9528.44,C.Choi,CLEAN
+INV-10669,2024-10-20,NovaTech Systems,Catering,4828.81,C.Choi,CLEAN
+INV-10375,2024-02-10,Riverfront Catering,Marketing,187.29,S.Park,CLEAN
+INV-10412,2024-07-29,Inland Legal Services,Logistics,2768.66,C.Choi,CLEAN
+INV-10074,2024-01-21,Apex Office Supplies,Legal,171.1,S.Park,CLEAN
+INV-10113,2024-08-02,Inland Legal Services,Logistics,4737.39,S.Park,CLEAN
+INV-10598,2024-12-06,Summit Facilities Mgmt,Office Supplies,1212.13,J.Kim,CLEAN
+INV-BLAW-0011,2024-05-21,Blue Ridge Consulting,Consulting,4993.78,J.Kim,BENFORD_VIOLATION
+INV-10390,2024-09-12,Blue Ridge Consulting,Logistics,164.28,C.Choi,CLEAN
+INV-10104,2024-09-15,NovaTech Systems,Catering,7238.0,C.Choi,CLEAN
+INV-10114,2024-08-11,NovaTech Systems,Staffing,1520.62,J.Kim,CLEAN
+INV-10417,2024-06-01,Blue Ridge Consulting,Marketing,452.9,S.Park,CLEAN
+INV-10525,2024-02-13,Summit Facilities Mgmt,Logistics,2290.63,S.Park,CLEAN
+INV-10457,2024-03-10,Inland Legal Services,Catering,712.15,M.Lee,CLEAN
+INV-10409,2024-03-28,Apex Office Supplies,Logistics,11615.63,C.Choi,CLEAN
+INV-10092,2024-01-01,Inland Legal Services,Marketing,4957.03,M.Lee,CLEAN
+INV-10930,2024-03-01,Riverfront Catering,Consulting,5493.72,C.Choi,CLEAN
+INV-10089,2024-06-02,Titan Logistics Co.,Logistics,674.03,M.Lee,CLEAN
+INV-10336,2024-07-01,Summit Facilities Mgmt,Consulting,176.71,M.Lee,CLEAN
+INV-DLT-F0006,2024-09-28,Delta Management Group,Management,91089.7,S.Park,RSF_VIOLATION
+INV-10921,2024-04-02,Apex Office Supplies,Logistics,717.76,C.Choi,CLEAN
+INV-10933,2024-09-03,Blue Ridge Consulting,Catering,44.75,M.Lee,CLEAN
+INV-10605,2024-03-09,Inland Legal Services,Office Supplies,2635.41,J.Kim,CLEAN
+INV-10593,2024-10-22,Summit Facilities Mgmt,Office Supplies,2441.32,C.Choi,CLEAN
+INV-10611,2024-11-03,Titan Logistics Co.,Software Licenses,1719.82,M.Lee,CLEAN
+INV-10094,2024-12-11,NovaTech Systems,Facilities,6158.1,C.Choi,CLEAN
+INV-10011,2024-04-29,Summit Facilities Mgmt,Consulting,253.22,C.Choi,CLEAN
+INV-10396,2024-10-14,Inland Legal Services,Facilities,386.9,M.Lee,CLEAN
+INV-10533,2024-12-21,Summit Facilities Mgmt,Facilities,607.95,C.Choi,CLEAN
+INV-10043,2024-01-28,Inland Legal Services,Consulting,6563.16,J.Kim,CLEAN
+INV-10042,2024-12-03,Blue Ridge Consulting,Catering,1629.32,M.Lee,CLEAN
+INV-10329,2024-11-23,Apex Office Supplies,Software Licenses,3182.78,C.Choi,CLEAN
+INV-10167,2024-12-18,NovaTech Systems,Marketing,9967.79,C.Choi,CLEAN
+INV-10497,2024-09-29,NovaTech Systems,Logistics,1523.39,C.Choi,CLEAN
+INV-10876,2024-09-30,Inland Legal Services,IT Services,5640.18,J.Kim,CLEAN
+INV-10597,2024-05-20,Summit Facilities Mgmt,Consulting,749.28,M.Lee,CLEAN
+INV-10756,2024-09-03,Summit Facilities Mgmt,Consulting,11445.16,M.Lee,CLEAN
+INV-10100,2024-12-01,Inland Legal Services,IT Services,505.81,J.Kim,CLEAN
+INV-10426,2024-10-08,Meridian IT Solutions,Office Supplies,758.67,C.Choi,CLEAN
+INV-10178,2024-09-22,Inland Legal Services,Legal,1424.83,C.Choi,CLEAN
+INV-10444,2024-04-23,Summit Facilities Mgmt,Facilities,558.9,S.Park,CLEAN
+INV-10416,2024-05-22,Blue Ridge Consulting,Logistics,1902.93,M.Lee,CLEAN
+INV-10870,2024-11-18,Titan Logistics Co.,Facilities,1541.86,C.Choi,CLEAN
+INV-10882,2024-11-27,Summit Facilities Mgmt,Legal,5752.51,J.Kim,CLEAN
+INV-10680,2024-05-03,Titan Logistics Co.,Marketing,3461.66,J.Kim,CLEAN
+INV-10177,2024-01-01,Inland Legal Services,Logistics,1725.95,C.Choi,CLEAN
+INV-10395,2024-07-25,Summit Facilities Mgmt,Legal,252.35,J.Kim,CLEAN
+INV-10911,2024-07-06,Inland Legal Services,Software Licenses,9446.55,J.Kim,CLEAN
+INV-10793,2024-03-01,Riverfront Catering,Marketing,112.53,J.Kim,CLEAN
+INV-BLAW-0010,2024-10-13,Greenway Staffing,Consulting,9990.75,J.Kim,BENFORD_VIOLATION
+INV-10684,2024-03-30,NovaTech Systems,Staffing,3444.42,J.Kim,CLEAN
+INV-10383,2024-01-31,NovaTech Systems,Office Supplies,1126.44,C.Choi,CLEAN
+INV-BLAW-0006,2024-05-02,Apex Office Supplies,Consulting,998.45,J.Kim,BENFORD_VIOLATION
+INV-10751,2024-11-03,Meridian IT Solutions,IT Services,3145.79,S.Park,CLEAN
+INV-10257,2024-07-09,Titan Logistics Co.,Office Supplies,198.81,J.Kim,CLEAN
+INV-10538,2024-04-17,NovaTech Systems,Staffing,1103.56,M.Lee,CLEAN
+INV-10335,2024-01-23,Inland Legal Services,Catering,348.26,M.Lee,CLEAN
+INV-10015,2024-11-23,Summit Facilities Mgmt,Logistics,229.92,S.Park,CLEAN
+INV-10324,2024-02-20,Apex Office Supplies,Legal,731.12,S.Park,CLEAN
+INV-10758,2024-05-03,Blue Ridge Consulting,IT Services,835.04,C.Choi,CLEAN
+INV-10222,2024-10-12,Inland Legal Services,Legal,801.32,J.Kim,CLEAN
+INV-10179,2024-04-14,NovaTech Systems,Marketing,6125.22,S.Park,CLEAN
+INV-DLT-F0001,2024-10-02,Delta Management Group,Management,68629.71,S.Park,RSF_VIOLATION
+INV-10022,2024-02-26,Titan Logistics Co.,Office Supplies,431.61,S.Park,CLEAN
+INV-10356,2024-01-17,Inland Legal Services,Software Licenses,396.03,S.Park,CLEAN
+INV-10666,2024-11-18,Inland Legal Services,Consulting,1437.3,M.Lee,CLEAN
+INV-10861,2024-06-18,Blue Ridge Consulting,Legal,2804.5,M.Lee,CLEAN
+INV-10340,2024-08-22,Titan Logistics Co.,IT Services,177.29,M.Lee,CLEAN
+INV-10431,2024-05-28,Meridian IT Solutions,IT Services,52.5,J.Kim,CLEAN
+INV-10551,2024-08-21,Coastal Marketing Group,Facilities,1571.66,C.Choi,CLEAN
+INV-10833,2024-01-25,NovaTech Systems,Logistics,905.95,C.Choi,CLEAN
+INV-10203,2024-07-10,Apex Office Supplies,Catering,4667.7,S.Park,CLEAN
+INV-10630,2024-05-17,Meridian IT Solutions,Consulting,394.17,J.Kim,CLEAN
+INV-10093,2024-10-23,Blue Ridge Consulting,Software Licenses,6442.27,M.Lee,CLEAN
+INV-10558,2024-01-03,Greenway Staffing,Facilities,10679.88,S.Park,CLEAN
+INV-10068,2024-05-08,Summit Facilities Mgmt,IT Services,10437.34,J.Kim,CLEAN
+INV-10622,2024-03-19,Riverfront Catering,Marketing,30255.01,J.Kim,CLEAN
+INV-10284,2024-02-10,Greenway Staffing,Catering,36066.63,M.Lee,CLEAN
+INV-10844,2024-01-28,Apex Office Supplies,IT Services,2100.24,S.Park,CLEAN
+INV-10434,2024-08-27,Meridian IT Solutions,Marketing,1812.31,S.Park,CLEAN
+INV-10153,2024-09-02,Greenway Staffing,Staffing,2228.38,M.Lee,CLEAN
+INV-10075,2024-06-30,Blue Ridge Consulting,Logistics,14405.02,C.Choi,CLEAN
+INV-10730,2024-03-16,Titan Logistics Co.,Software Licenses,9293.7,J.Kim,CLEAN
+INV-10446,2024-10-02,Riverfront Catering,Facilities,582.07,S.Park,CLEAN
+INV-10188,2024-06-01,Apex Office Supplies,Software Licenses,843.77,C.Choi,CLEAN
+INV-10271,2024-08-05,Summit Facilities Mgmt,Staffing,2965.78,C.Choi,CLEAN
+INV-10236,2024-11-01,Blue Ridge Consulting,IT Services,1963.34,J.Kim,CLEAN
+INV-10487,2024-10-26,Apex Office Supplies,Software Licenses,683.08,C.Choi,CLEAN
+INV-10117,2024-12-05,Inland Legal Services,IT Services,3575.73,J.Kim,CLEAN
+INV-10943,2024-09-04,Coastal Marketing Group,Marketing,7559.63,M.Lee,CLEAN
+INV-10512,2024-03-12,Riverfront Catering,Consulting,1458.18,M.Lee,CLEAN
+INV-10825,2024-11-13,NovaTech Systems,Software Licenses,6687.84,C.Choi,CLEAN
+INV-10591,2024-09-30,Coastal Marketing Group,Catering,250.22,S.Park,CLEAN
+INV-10126,2024-02-25,Meridian IT Solutions,Software Licenses,149.82,J.Kim,CLEAN
+INV-10116,2024-11-14,NovaTech Systems,Logistics,389.67,J.Kim,CLEAN
+INV-10473,2024-10-02,Summit Facilities Mgmt,Staffing,6186.88,S.Park,CLEAN
+INV-10693,2024-03-30,Blue Ridge Consulting,Catering,12470.92,M.Lee,CLEAN
+INV-10057,2024-10-16,Inland Legal Services,Logistics,6526.01,M.Lee,CLEAN
+INV-10863,2024-11-28,Riverfront Catering,IT Services,2430.56,J.Kim,CLEAN
+INV-10912,2024-04-24,Riverfront Catering,Logistics,2263.0,C.Choi,CLEAN
+INV-10369,2024-09-02,Titan Logistics Co.,Logistics,901.71,C.Choi,CLEAN
+INV-10268,2024-08-02,Riverfront Catering,Staffing,1216.78,M.Lee,CLEAN
+INV-10046,2024-02-08,Summit Facilities Mgmt,Staffing,5869.67,J.Kim,CLEAN
+INV-10349,2024-06-16,Coastal Marketing Group,Marketing,1492.04,M.Lee,CLEAN
+INV-10195,2024-08-13,Titan Logistics Co.,Consulting,593.07,C.Choi,CLEAN
+INV-DUP-0009,2024-08-30,Blue Ridge Consulting,Various,17000.0,M.Lee,DUPLICATE
+INV-10834,2024-09-17,Greenway Staffing,Office Supplies,7908.71,S.Park,CLEAN
+INV-10736,2024-09-08,Summit Facilities Mgmt,Consulting,2276.57,S.Park,CLEAN
+INV-10263,2024-11-14,Inland Legal Services,Software Licenses,144.84,J.Kim,CLEAN
+INV-10443,2024-09-14,Meridian IT Solutions,Marketing,7613.03,J.Kim,CLEAN
+INV-10675,2024-10-05,Riverfront Catering,IT Services,897.82,C.Choi,CLEAN
+INV-10304,2024-12-23,Summit Facilities Mgmt,Catering,395.08,S.Park,CLEAN
+INV-10341,2024-04-12,Blue Ridge Consulting,IT Services,2251.42,M.Lee,CLEAN
+INV-SHELL-0004,2024-02-24,Alpha Business Services LLC,Consulting,695797.51,J.Kim,OUTLIER_SHELL
+INV-10149,2024-05-31,Titan Logistics Co.,Facilities,542.93,M.Lee,CLEAN
+INV-10124,2024-12-08,Blue Ridge Consulting,Consulting,3066.13,S.Park,CLEAN
+INV-10786,2024-03-04,Greenway Staffing,Legal,14526.73,J.Kim,CLEAN
+INV-10050,2024-08-20,Inland Legal Services,Marketing,2420.37,C.Choi,CLEAN
+INV-10353,2024-12-13,Coastal Marketing Group,Office Supplies,7244.83,J.Kim,CLEAN
+INV-10927,2024-03-08,Blue Ridge Consulting,Consulting,2538.91,J.Kim,CLEAN
+INV-10142,2024-02-17,NovaTech Systems,Marketing,80.84,S.Park,CLEAN
+INV-10470,2024-02-01,Inland Legal Services,Logistics,1411.56,S.Park,CLEAN
+INV-10399,2024-07-20,Meridian IT Solutions,Legal,1391.05,M.Lee,CLEAN
+INV-10625,2024-05-02,Inland Legal Services,IT Services,241.96,S.Park,CLEAN
+INV-10320,2024-09-19,Summit Facilities Mgmt,Office Supplies,8672.37,C.Choi,CLEAN
+INV-10019,2024-10-14,Summit Facilities Mgmt,Logistics,507.21,M.Lee,CLEAN
+INV-10809,2024-07-02,Meridian IT Solutions,Software Licenses,4331.96,J.Kim,CLEAN
+INV-10790,2024-08-30,Titan Logistics Co.,Office Supplies,10946.04,S.Park,CLEAN
+INV-10808,2024-09-04,Inland Legal Services,Software Licenses,1416.23,C.Choi,CLEAN
+INV-10407,2024-12-18,Inland Legal Services,IT Services,7334.43,C.Choi,CLEAN
+INV-10537,2024-10-06,Greenway Staffing,Office Supplies,1279.08,J.Kim,CLEAN
+INV-10620,2024-07-22,Apex Office Supplies,Logistics,183.01,M.Lee,CLEAN
+INV-10038,2024-11-19,Apex Office Supplies,IT Services,547.1,S.Park,CLEAN
+INV-10175,2024-07-24,Summit Facilities Mgmt,Logistics,14458.36,J.Kim,CLEAN
+INV-10245,2024-02-25,Coastal Marketing Group,Staffing,6411.5,S.Park,CLEAN
+INV-10828,2024-03-25,Titan Logistics Co.,Staffing,1238.72,S.Park,CLEAN
+INV-10667,2024-02-03,Titan Logistics Co.,Facilities,6999.5,C.Choi,CLEAN
+INV-10754,2024-09-23,NovaTech Systems,Software Licenses,769.35,C.Choi,CLEAN
+INV-10858,2024-06-11,Titan Logistics Co.,Logistics,232.24,S.Park,CLEAN
+INV-10154,2024-05-09,Meridian IT Solutions,Staffing,540.81,J.Kim,CLEAN
+INV-10287,2024-05-11,Blue Ridge Consulting,Facilities,3070.16,S.Park,CLEAN
+INV-10602,2024-06-24,Apex Office Supplies,Consulting,3954.64,C.Choi,CLEAN
+INV-10569,2024-04-05,NovaTech Systems,Legal,1317.69,C.Choi,CLEAN
+INV-10743,2024-07-03,Apex Office Supplies,Facilities,8252.44,M.Lee,CLEAN
+INV-10017,2024-02-03,Coastal Marketing Group,Facilities,10096.79,M.Lee,CLEAN
+INV-10127,2024-07-11,Summit Facilities Mgmt,Catering,5451.2,S.Park,CLEAN
+INV-10322,2024-07-21,Apex Office Supplies,Logistics,4569.9,M.Lee,CLEAN
+INV-10255,2024-07-10,Coastal Marketing Group,Office Supplies,5773.51,C.Choi,CLEAN
+INV-10657,2024-03-02,NovaTech Systems,Logistics,1769.21,M.Lee,CLEAN
+INV-SHELL-0002,2024-10-21,Alpha Business Services LLC,Consulting,452046.64,J.Kim,OUTLIER_SHELL
+INV-10190,2024-07-12,Riverfront Catering,Staffing,258.14,M.Lee,CLEAN
+INV-10115,2024-12-13,Inland Legal Services,Catering,2371.77,S.Park,CLEAN
+INV-10616,2024-01-07,Riverfront Catering,Legal,450.07,M.Lee,CLEAN
+INV-10606,2024-11-08,Riverfront Catering,Office Supplies,4714.26,C.Choi,CLEAN
+INV-10180,2024-12-23,Summit Facilities Mgmt,Staffing,12556.17,J.Kim,CLEAN
+INV-10301,2024-12-13,Coastal Marketing Group,Catering,1092.08,M.Lee,CLEAN
+INV-10759,2024-01-14,Coastal Marketing Group,Staffing,13229.66,M.Lee,CLEAN
+INV-10712,2024-11-16,Summit Facilities Mgmt,Software Licenses,233.94,C.Choi,CLEAN
+INV-10723,2024-07-21,NovaTech Systems,IT Services,3529.59,S.Park,CLEAN
+INV-10685,2024-11-04,Titan Logistics Co.,Facilities,3434.75,J.Kim,CLEAN
+INV-DLT-N0012,2024-04-27,Delta Management Group,Management,6000.4,S.Park,CLEAN
+INV-10517,2024-02-13,Greenway Staffing,Software Licenses,4087.59,M.Lee,CLEAN
+INV-DLT-F0002,2024-10-22,Delta Management Group,Management,82926.82,S.Park,RSF_VIOLATION
+INV-10045,2024-03-12,Blue Ridge Consulting,Catering,4895.68,S.Park,CLEAN
+INV-10909,2024-01-21,NovaTech Systems,Legal,3509.59,J.Kim,CLEAN
+INV-10157,2024-08-01,Blue Ridge Consulting,Software Licenses,2769.58,S.Park,CLEAN
+INV-10851,2024-12-26,Blue Ridge Consulting,Legal,231.49,S.Park,CLEAN
+INV-10171,2024-03-30,Summit Facilities Mgmt,Staffing,4577.61,C.Choi,CLEAN
+INV-10016,2024-01-29,Coastal Marketing Group,Facilities,146.52,J.Kim,CLEAN
+INV-10511,2024-05-03,Summit Facilities Mgmt,Software Licenses,1728.11,C.Choi,CLEAN
+INV-10048,2024-09-05,Blue Ridge Consulting,Staffing,2463.3,S.Park,CLEAN
+INV-DLT-N0004,2024-08-14,Delta Management Group,Management,6415.14,S.Park,CLEAN
+INV-10940,2024-08-04,Summit Facilities Mgmt,Software Licenses,112.13,M.Lee,CLEAN
+INV-10515,2024-08-18,Apex Office Supplies,Staffing,13749.72,S.Park,CLEAN
+INV-BLAW-0002,2024-03-30,NovaTech Systems,Consulting,9984.81,J.Kim,BENFORD_VIOLATION
+INV-10480,2024-06-19,NovaTech Systems,Marketing,1611.43,J.Kim,CLEAN
+INV-10283,2024-02-24,Coastal Marketing Group,Facilities,593.46,C.Choi,CLEAN
+INV-10718,2024-05-17,Summit Facilities Mgmt,Software Licenses,1303.42,J.Kim,CLEAN
+INV-10877,2024-02-07,Greenway Staffing,Legal,2211.46,J.Kim,CLEAN
+INV-10225,2024-04-29,Coastal Marketing Group,Staffing,4817.72,J.Kim,CLEAN
+INV-10026,2024-08-20,Summit Facilities Mgmt,IT Services,3620.27,M.Lee,CLEAN
+INV-BLAW-0004,2024-11-02,Riverfront Catering,Consulting,4996.07,J.Kim,BENFORD_VIOLATION
+INV-10437,2024-11-23,Meridian IT Solutions,Catering,3083.83,C.Choi,CLEAN
+INV-BLAW-0001,2024-12-30,Greenway Staffing,Consulting,991.18,J.Kim,BENFORD_VIOLATION
+INV-10364,2024-10-08,Coastal Marketing Group,Logistics,804.44,M.Lee,CLEAN
+INV-10229,2024-10-02,Titan Logistics Co.,Office Supplies,3333.03,C.Choi,CLEAN
+INV-10037,2024-10-10,Coastal Marketing Group,Facilities,309.91,S.Park,CLEAN
+INV-SHELL-0003,2024-03-30,Alpha Business Services LLC,Consulting,629139.24,J.Kim,OUTLIER_SHELL
+INV-10374,2024-06-14,Summit Facilities Mgmt,Facilities,12554.87,M.Lee,CLEAN
+INV-10469,2024-03-14,Blue Ridge Consulting,Logistics,1076.82,S.Park,CLEAN
+INV-DLT-N0000,2024-09-14,Delta Management Group,Management,4735.63,S.Park,CLEAN
+INV-10850,2024-04-13,Apex Office Supplies,Software Licenses,216.34,C.Choi,CLEAN
+INV-10704,2024-02-23,Coastal Marketing Group,Consulting,445.43,M.Lee,CLEAN
+INV-10841,2024-11-28,Meridian IT Solutions,Office Supplies,792.2,M.Lee,CLEAN
+INV-10194,2024-03-05,NovaTech Systems,Logistics,479.71,M.Lee,CLEAN
+INV-10854,2024-05-15,Inland Legal Services,Office Supplies,6492.83,S.Park,CLEAN
+INV-10864,2024-11-24,Coastal Marketing Group,Software Licenses,5276.66,S.Park,CLEAN
+INV-10503,2024-02-11,Blue Ridge Consulting,IT Services,3000.91,J.Kim,CLEAN
+INV-DLT-N0002,2024-05-11,Delta Management Group,Management,6190.28,S.Park,CLEAN
+INV-10830,2024-07-20,Titan Logistics Co.,Facilities,105.17,C.Choi,CLEAN
+INV-10579,2024-02-14,Coastal Marketing Group,Staffing,1266.17,J.Kim,CLEAN
+INV-DLT-N0001,2024-02-29,Delta Management Group,Management,6007.36,S.Park,CLEAN
+INV-10162,2024-10-31,Inland Legal Services,Staffing,18233.52,M.Lee,CLEAN
+INV-10908,2024-07-03,Blue Ridge Consulting,Catering,12731.56,C.Choi,CLEAN
+INV-10152,2024-09-08,Meridian IT Solutions,Consulting,5034.06,J.Kim,CLEAN
+INV-10801,2024-07-03,Apex Office Supplies,Legal,240.8,C.Choi,CLEAN
+INV-DUP-0003,2024-06-22,Titan Logistics Co.,Various,8799.99,M.Lee,DUPLICATE
+INV-10755,2024-09-18,Greenway Staffing,Legal,19324.79,M.Lee,CLEAN
+INV-10111,2024-08-03,Inland Legal Services,Catering,1765.41,J.Kim,CLEAN
+INV-10226,2024-10-14,Greenway Staffing,Legal,430.21,S.Park,CLEAN
+INV-10688,2024-12-26,Apex Office Supplies,Office Supplies,3428.45,J.Kim,CLEAN
+INV-10103,2024-10-13,NovaTech Systems,Software Licenses,4621.18,M.Lee,CLEAN
+INV-10421,2024-02-10,Summit Facilities Mgmt,Legal,2334.0,C.Choi,CLEAN
+INV-10419,2024-12-12,Summit Facilities Mgmt,Logistics,1921.32,C.Choi,CLEAN
+INV-10750,2024-12-15,Inland Legal Services,IT Services,4246.02,C.Choi,CLEAN
+INV-10586,2024-06-13,Blue Ridge Consulting,Facilities,1195.81,C.Choi,CLEAN
+INV-10780,2024-10-28,Titan Logistics Co.,Marketing,2121.61,S.Park,CLEAN
+INV-10672,2024-01-18,NovaTech Systems,Software Licenses,286.38,S.Park,CLEAN
+INV-10119,2024-04-18,Summit Facilities Mgmt,Staffing,3557.24,M.Lee,CLEAN
+INV-10053,2024-10-26,Coastal Marketing Group,Staffing,3135.39,S.Park,CLEAN
+INV-10151,2024-01-28,Summit Facilities Mgmt,Logistics,2469.58,M.Lee,CLEAN
+INV-10403,2024-06-12,Coastal Marketing Group,Office Supplies,422.83,C.Choi,CLEAN
+INV-10945,2024-08-16,Titan Logistics Co.,Office Supplies,138.37,J.Kim,CLEAN
+INV-10207,2024-12-07,Summit Facilities Mgmt,IT Services,11610.33,C.Choi,CLEAN
+INV-10658,2024-08-25,Blue Ridge Consulting,Marketing,9308.28,J.Kim,CLEAN
+INV-10843,2024-08-04,Riverfront Catering,IT Services,2550.82,J.Kim,CLEAN
+INV-10762,2024-11-22,Blue Ridge Consulting,Staffing,48633.08,M.Lee,CLEAN
+INV-10008,2024-10-01,Apex Office Supplies,Consulting,252.28,C.Choi,CLEAN
+INV-10807,2024-01-31,Meridian IT Solutions,Office Supplies,5795.73,J.Kim,CLEAN
+INV-10036,2024-05-06,Riverfront Catering,Facilities,9378.78,J.Kim,CLEAN
+INV-10452,2024-09-19,Apex Office Supplies,Catering,4064.28,C.Choi,CLEAN
+INV-10651,2024-02-13,NovaTech Systems,Software Licenses,1244.59,J.Kim,CLEAN
+INV-10253,2024-04-26,Inland Legal Services,Catering,16692.68,M.Lee,CLEAN
+INV-10303,2024-12-05,Coastal Marketing Group,Office Supplies,3131.71,M.Lee,CLEAN
+INV-10746,2024-08-30,Meridian IT Solutions,Software Licenses,486.27,M.Lee,CLEAN
+INV-10571,2024-07-15,Meridian IT Solutions,Logistics,8174.65,C.Choi,CLEAN
+INV-10623,2024-04-14,Summit Facilities Mgmt,Office Supplies,6068.57,M.Lee,CLEAN
+INV-10732,2024-12-01,Inland Legal Services,Staffing,2610.84,C.Choi,CLEAN
+INV-10891,2024-04-09,Summit Facilities Mgmt,Legal,11557.52,C.Choi,CLEAN
+INV-10262,2024-05-22,Riverfront Catering,Software Licenses,97.79,S.Park,CLEAN
+INV-10610,2024-03-12,Inland Legal Services,Facilities,3258.2,M.Lee,CLEAN
+INV-10297,2024-06-24,NovaTech Systems,Consulting,2384.08,S.Park,CLEAN
+INV-10414,2024-06-09,NovaTech Systems,Office Supplies,10225.29,C.Choi,CLEAN
+INV-10150,2024-12-28,Meridian IT Solutions,Logistics,2265.26,S.Park,CLEAN
+INV-10788,2024-12-04,Greenway Staffing,Consulting,376.09,J.Kim,CLEAN
+INV-10640,2024-09-21,Meridian IT Solutions,IT Services,1336.48,C.Choi,CLEAN
+INV-10889,2024-04-11,Titan Logistics Co.,Software Licenses,4904.13,C.Choi,CLEAN
+INV-10550,2024-02-13,Inland Legal Services,Consulting,439.92,S.Park,CLEAN
+INV-10886,2024-04-04,Riverfront Catering,Facilities,3058.06,M.Lee,CLEAN
+INV-10488,2024-06-17,Summit Facilities Mgmt,Facilities,8253.79,C.Choi,CLEAN
+INV-10147,2024-12-19,Riverfront Catering,Office Supplies,107.72,S.Park,CLEAN
+INV-10146,2024-04-08,Blue Ridge Consulting,Legal,593.92,J.Kim,CLEAN
+INV-10720,2024-07-30,Coastal Marketing Group,Software Licenses,548.84,S.Park,CLEAN
+INV-10931,2024-10-03,Meridian IT Solutions,IT Services,2646.93,C.Choi,CLEAN
+INV-10739,2024-07-27,Blue Ridge Consulting,Staffing,1112.51,M.Lee,CLEAN
+INV-10659,2024-12-17,Titan Logistics Co.,Marketing,1587.75,J.Kim,CLEAN
+INV-10348,2024-04-02,Inland Legal Services,Logistics,4900.48,M.Lee,CLEAN
+INV-10463,2024-04-06,Coastal Marketing Group,Consulting,2192.03,J.Kim,CLEAN
+INV-10325,2024-08-29,Meridian IT Solutions,Office Supplies,606.21,C.Choi,CLEAN
+INV-10186,2024-04-07,Riverfront Catering,Software Licenses,2768.09,S.Park,CLEAN
+INV-10123,2024-01-11,Blue Ridge Consulting,Software Licenses,512.0,S.Park,CLEAN
+INV-10853,2024-03-02,Meridian IT Solutions,Catering,1324.8,J.Kim,CLEAN
+INV-10608,2024-04-21,Greenway Staffing,Consulting,2332.97,J.Kim,CLEAN
+INV-10143,2024-06-05,Inland Legal Services,Software Licenses,9221.05,M.Lee,CLEAN
+INV-BLAW-0008,2024-07-26,Greenway Staffing,Consulting,4988.95,J.Kim,BENFORD_VIOLATION
+INV-10197,2024-05-15,NovaTech Systems,Legal,470.47,C.Choi,CLEAN
+INV-10609,2024-10-28,Meridian IT Solutions,Catering,1800.9,M.Lee,CLEAN
+INV-10279,2024-01-22,Titan Logistics Co.,Catering,1278.21,J.Kim,CLEAN
+INV-10293,2024-01-20,Summit Facilities Mgmt,IT Services,14687.05,M.Lee,CLEAN
+INV-10400,2024-03-14,Riverfront Catering,Facilities,81.91,C.Choi,CLEAN
+INV-10122,2024-02-05,Coastal Marketing Group,IT Services,6390.16,J.Kim,CLEAN
+INV-10183,2024-02-28,Blue Ridge Consulting,Staffing,653.58,J.Kim,CLEAN
+INV-10202,2024-01-15,Meridian IT Solutions,IT Services,17294.36,M.Lee,CLEAN
+INV-10438,2024-07-24,Riverfront Catering,Consulting,390.32,S.Park,CLEAN
+INV-10246,2024-12-03,Greenway Staffing,Logistics,1179.15,M.Lee,CLEAN
+INV-10415,2024-06-30,Riverfront Catering,Marketing,921.83,C.Choi,CLEAN
+INV-10932,2024-01-23,Riverfront Catering,Logistics,2940.66,C.Choi,CLEAN
+INV-10765,2024-04-23,Coastal Marketing Group,Legal,4953.14,S.Park,CLEAN
+INV-10906,2024-01-21,NovaTech Systems,Facilities,103.56,C.Choi,CLEAN
+INV-10835,2024-12-02,Meridian IT Solutions,Software Licenses,2232.31,M.Lee,CLEAN
+INV-10887,2024-12-09,Blue Ridge Consulting,Software Licenses,1308.5,J.Kim,CLEAN
+INV-10129,2024-11-03,Summit Facilities Mgmt,Consulting,243.84,J.Kim,CLEAN
+INV-10637,2024-01-19,Meridian IT Solutions,Logistics,434.12,C.Choi,CLEAN
+INV-10402,2024-03-17,NovaTech Systems,Software Licenses,8132.88,S.Park,CLEAN
+INV-10784,2024-07-25,Meridian IT Solutions,IT Services,706.12,S.Park,CLEAN
+INV-10770,2024-03-18,Inland Legal Services,Office Supplies,3418.57,S.Park,CLEAN
+INV-10735,2024-07-09,NovaTech Systems,IT Services,647.16,M.Lee,CLEAN
+INV-10913,2024-06-25,Coastal Marketing Group,Staffing,1953.65,C.Choi,CLEAN
+INV-10219,2024-07-06,Meridian IT Solutions,Logistics,437.85,M.Lee,CLEAN
+INV-10641,2024-05-24,Titan Logistics Co.,Marketing,2140.99,M.Lee,CLEAN
+INV-10915,2024-11-25,Blue Ridge Consulting,Marketing,2324.17,S.Park,CLEAN
+INV-10752,2024-06-05,Summit Facilities Mgmt,Marketing,4092.41,C.Choi,CLEAN
+INV-10806,2024-11-28,NovaTech Systems,Office Supplies,503.78,J.Kim,CLEAN
+INV-10919,2024-03-06,Apex Office Supplies,Software Licenses,2153.14,S.Park,CLEAN
+INV-10624,2024-11-28,Inland Legal Services,Consulting,24716.61,M.Lee,CLEAN
+INV-10874,2024-05-12,Greenway Staffing,Catering,390.28,C.Choi,CLEAN
+INV-10760,2024-07-26,Summit Facilities Mgmt,Catering,226.87,J.Kim,CLEAN
+INV-10386,2024-09-20,Meridian IT Solutions,Logistics,567.79,J.Kim,CLEAN
+INV-DLT-N0005,2024-10-15,Delta Management Group,Management,5209.07,S.Park,CLEAN
+INV-10509,2024-06-10,Meridian IT Solutions,IT Services,175.75,S.Park,CLEAN
+INV-10267,2024-11-20,Titan Logistics Co.,IT Services,499.13,J.Kim,CLEAN
+INV-10819,2024-07-25,Riverfront Catering,Facilities,17082.95,J.Kim,CLEAN
+INV-10441,2024-01-06,Greenway Staffing,Marketing,390.45,M.Lee,CLEAN
+INV-10496,2024-12-07,Apex Office Supplies,Software Licenses,3920.32,C.Choi,CLEAN
+INV-10112,2024-01-04,Greenway Staffing,Legal,1908.76,M.Lee,CLEAN
+INV-10691,2024-08-11,Meridian IT Solutions,Staffing,1286.05,M.Lee,CLEAN
+INV-10232,2024-05-23,NovaTech Systems,IT Services,8365.74,M.Lee,CLEAN
+INV-10869,2024-10-02,Titan Logistics Co.,Logistics,11038.94,J.Kim,CLEAN
+INV-10607,2024-11-17,Coastal Marketing Group,Office Supplies,116.2,C.Choi,CLEAN
+INV-10671,2024-04-05,Coastal Marketing Group,Marketing,279.76,M.Lee,CLEAN
+INV-10373,2024-01-29,Meridian IT Solutions,Consulting,15858.95,S.Park,CLEAN
+INV-DLT-N0014,2024-09-21,Delta Management Group,Management,5339.13,S.Park,CLEAN
+INV-10842,2024-10-14,Titan Logistics Co.,Staffing,131.27,C.Choi,CLEAN
+INV-10233,2024-04-30,Blue Ridge Consulting,Legal,5135.23,J.Kim,CLEAN
+INV-10785,2024-03-08,Blue Ridge Consulting,Facilities,1188.9,J.Kim,CLEAN
+INV-10676,2024-09-05,Coastal Marketing Group,Legal,3724.16,M.Lee,CLEAN
+INV-10317,2024-03-23,Riverfront Catering,Facilities,6521.2,S.Park,CLEAN
+INV-10648,2024-05-01,Blue Ridge Consulting,Catering,6893.58,C.Choi,CLEAN
+INV-10410,2024-05-04,Meridian IT Solutions,IT Services,821.9,J.Kim,CLEAN
+INV-10898,2024-11-16,Riverfront Catering,Consulting,5355.39,J.Kim,CLEAN
+INV-10709,2024-10-03,Inland Legal Services,Marketing,26569.51,M.Lee,CLEAN
+INV-10358,2024-07-06,Greenway Staffing,Catering,2417.4,M.Lee,CLEAN
+INV-10258,2024-10-14,Greenway Staffing,Legal,628.8,J.Kim,CLEAN
+INV-10744,2024-09-15,Coastal Marketing Group,Catering,676.99,J.Kim,CLEAN
+INV-10627,2024-12-02,Summit Facilities Mgmt,Office Supplies,7420.11,J.Kim,CLEAN
+INV-10632,2024-10-22,Summit Facilities Mgmt,Consulting,344.46,C.Choi,CLEAN
+INV-10282,2024-06-15,Titan Logistics Co.,Office Supplies,24592.87,C.Choi,CLEAN
+INV-10376,2024-11-16,Riverfront Catering,Marketing,3964.32,J.Kim,CLEAN
+INV-10384,2024-04-14,Inland Legal Services,Legal,4762.88,S.Park,CLEAN
+INV-10224,2024-12-10,Coastal Marketing Group,Marketing,5823.45,C.Choi,CLEAN
+INV-BLAW-0003,2024-12-02,Riverfront Catering,Consulting,4998.83,J.Kim,BENFORD_VIOLATION
+INV-10814,2024-05-07,Inland Legal Services,Staffing,16685.43,M.Lee,CLEAN
+INV-10472,2024-08-01,Riverfront Catering,Catering,462.35,S.Park,CLEAN
+INV-10347,2024-02-12,Riverfront Catering,Catering,509.42,J.Kim,CLEAN
+INV-10505,2024-02-12,Apex Office Supplies,Staffing,247.86,C.Choi,CLEAN
+INV-10639,2024-03-02,Titan Logistics Co.,Logistics,3272.94,J.Kim,CLEAN
+INV-DLT-F0005,2024-10-31,Delta Management Group,Management,69613.29,S.Park,RSF_VIOLATION
+INV-10928,2024-09-15,Blue Ridge Consulting,Catering,24242.6,S.Park,CLEAN
+INV-10905,2024-03-22,Riverfront Catering,Office Supplies,1885.21,S.Park,CLEAN
+INV-10619,2024-05-14,Greenway Staffing,Facilities,2211.65,J.Kim,CLEAN
+INV-10855,2024-01-03,Greenway Staffing,Legal,227.98,C.Choi,CLEAN
+INV-10803,2024-08-12,Meridian IT Solutions,Software Licenses,1192.67,M.Lee,CLEAN
+INV-10645,2024-07-28,Meridian IT Solutions,IT Services,1414.52,S.Park,CLEAN
+INV-10846,2024-12-19,Meridian IT Solutions,Marketing,538.71,S.Park,CLEAN
+INV-10556,2024-07-26,NovaTech Systems,Office Supplies,1165.79,S.Park,CLEAN
+INV-BLAW-0007,2024-05-21,Inland Legal Services,Consulting,9997.69,J.Kim,BENFORD_VIOLATION
+INV-10577,2024-08-05,NovaTech Systems,Consulting,13899.47,S.Park,CLEAN
+INV-10795,2024-07-02,Riverfront Catering,Catering,1156.5,M.Lee,CLEAN
+INV-10085,2024-09-18,Inland Legal Services,Consulting,5703.13,C.Choi,CLEAN
+INV-10242,2024-05-01,Coastal Marketing Group,Software Licenses,668.47,M.Lee,CLEAN
+INV-10698,2024-05-15,Coastal Marketing Group,Facilities,15472.49,S.Park,CLEAN
+INV-10159,2024-01-31,Summit Facilities Mgmt,Software Licenses,12830.59,J.Kim,CLEAN
+INV-10524,2024-06-15,Greenway Staffing,Catering,4749.14,J.Kim,CLEAN
+INV-10035,2024-11-28,Inland Legal Services,Legal,119.0,C.Choi,CLEAN
+INV-10540,2024-12-03,Summit Facilities Mgmt,Office Supplies,3835.76,C.Choi,CLEAN
+INV-10170,2024-12-11,Apex Office Supplies,Software Licenses,811.95,J.Kim,CLEAN
+INV-10654,2024-07-20,Summit Facilities Mgmt,Legal,5288.87,M.Lee,CLEAN
+INV-10890,2024-12-09,Coastal Marketing Group,Facilities,3783.61,J.Kim,CLEAN
+INV-10857,2024-06-03,Greenway Staffing,Staffing,646.4,M.Lee,CLEAN
+INV-10847,2024-08-19,Riverfront Catering,Consulting,16477.81,S.Park,CLEAN
+INV-10944,2024-12-27,Greenway Staffing,Catering,9527.84,S.Park,CLEAN
+INV-10733,2024-07-25,Apex Office Supplies,Office Supplies,390.6,C.Choi,CLEAN
+INV-10095,2024-05-25,Meridian IT Solutions,Logistics,2908.93,M.Lee,CLEAN
+INV-10563,2024-08-22,Coastal Marketing Group,Software Licenses,1348.27,S.Park,CLEAN
+INV-10240,2024-03-15,Summit Facilities Mgmt,Office Supplies,182.63,M.Lee,CLEAN
+INV-10742,2024-04-12,Meridian IT Solutions,IT Services,1030.36,S.Park,CLEAN
+INV-10574,2024-10-02,Apex Office Supplies,Marketing,3814.12,S.Park,CLEAN
+INV-10690,2024-06-03,Greenway Staffing,Legal,1306.53,S.Park,CLEAN
+INV-10460,2024-03-06,Riverfront Catering,Facilities,10596.22,J.Kim,CLEAN
+INV-10553,2024-12-29,Titan Logistics Co.,Consulting,2273.28,J.Kim,CLEAN
+INV-10888,2024-10-08,Riverfront Catering,Consulting,12252.17,M.Lee,CLEAN
+INV-10206,2024-03-14,NovaTech Systems,Facilities,675.22,C.Choi,CLEAN
+INV-10392,2024-05-03,Inland Legal Services,Facilities,3215.82,M.Lee,CLEAN
+INV-10794,2024-11-07,Titan Logistics Co.,Facilities,3801.92,M.Lee,CLEAN
+INV-10397,2024-07-16,Riverfront Catering,Logistics,6114.91,C.Choi,CLEAN
+INV-10766,2024-06-18,Summit Facilities Mgmt,Legal,7907.03,M.Lee,CLEAN
+INV-10848,2024-09-18,Riverfront Catering,Marketing,1018.45,J.Kim,CLEAN
+INV-10217,2024-07-05,NovaTech Systems,Office Supplies,1460.98,J.Kim,CLEAN
+INV-10004,2024-08-17,Riverfront Catering,Software Licenses,6878.06,M.Lee,CLEAN
+INV-10768,2024-11-13,Greenway Staffing,Consulting,5224.55,C.Choi,CLEAN
+INV-10642,2024-01-05,Titan Logistics Co.,Legal,6756.67,S.Park,CLEAN
+INV-10929,2024-08-31,Greenway Staffing,Software Licenses,1704.16,J.Kim,CLEAN
+INV-10612,2024-12-03,Apex Office Supplies,Marketing,533.77,S.Park,CLEAN
+INV-10738,2024-02-15,Inland Legal Services,Facilities,25999.49,C.Choi,CLEAN
+INV-10546,2024-02-20,Inland Legal Services,Marketing,3039.25,S.Park,CLEAN
+INV-10725,2024-03-05,Blue Ridge Consulting,IT Services,335.63,C.Choi,CLEAN
+INV-10683,2024-10-15,Coastal Marketing Group,Office Supplies,658.11,S.Park,CLEAN
+INV-10098,2024-02-07,Greenway Staffing,Staffing,405.5,C.Choi,CLEAN
+INV-10804,2024-06-24,Titan Logistics Co.,Office Supplies,1222.87,J.Kim,CLEAN
+INV-10727,2024-02-04,Greenway Staffing,Consulting,2472.1,C.Choi,CLEAN
+INV-10573,2024-01-16,Meridian IT Solutions,Facilities,1484.46,M.Lee,CLEAN
+INV-10406,2024-07-07,NovaTech Systems,Legal,138.71,J.Kim,CLEAN
+INV-10502,2024-07-26,Inland Legal Services,Staffing,513.52,S.Park,CLEAN
+INV-10047,2024-10-03,Apex Office Supplies,IT Services,16983.3,J.Kim,CLEAN
+INV-10032,2024-09-29,NovaTech Systems,Office Supplies,398.02,S.Park,CLEAN
+INV-10779,2024-06-25,Blue Ridge Consulting,Marketing,12512.34,S.Park,CLEAN
+INV-10839,2024-12-30,Riverfront Catering,Logistics,325.71,S.Park,CLEAN
+INV-10200,2024-11-19,Greenway Staffing,Marketing,2494.91,S.Park,CLEAN
+INV-10134,2024-10-30,NovaTech Systems,Marketing,4257.35,M.Lee,CLEAN
+INV-10027,2024-09-16,Riverfront Catering,Consulting,587.4,M.Lee,CLEAN
+INV-10880,2024-09-30,Apex Office Supplies,Facilities,47517.47,S.Park,CLEAN
+INV-10230,2024-12-22,NovaTech Systems,Logistics,936.99,C.Choi,CLEAN
+INV-10489,2024-09-12,Greenway Staffing,Logistics,974.22,M.Lee,CLEAN
+INV-10772,2024-04-02,Coastal Marketing Group,Consulting,759.31,C.Choi,CLEAN
+INV-10378,2024-11-05,Meridian IT Solutions,Legal,37528.73,J.Kim,CLEAN
+INV-10288,2024-12-01,Greenway Staffing,Consulting,2328.3,S.Park,CLEAN
+INV-10418,2024-06-27,NovaTech Systems,Logistics,5225.82,M.Lee,CLEAN
+INV-10674,2024-03-11,Titan Logistics Co.,Catering,509.4,S.Park,CLEAN
+INV-10391,2024-09-11,NovaTech Systems,IT Services,659.79,J.Kim,CLEAN
+INV-10592,2024-09-10,Inland Legal Services,Marketing,651.31,M.Lee,CLEAN
+INV-10498,2024-05-20,Apex Office Supplies,Logistics,822.17,M.Lee,CLEAN
+INV-10138,2024-05-12,Blue Ridge Consulting,Legal,3759.97,M.Lee,CLEAN
+INV-10062,2024-06-27,Riverfront Catering,Consulting,668.01,S.Park,CLEAN
+INV-10471,2024-01-25,Inland Legal Services,Legal,1617.53,C.Choi,CLEAN
+INV-10647,2024-07-11,Apex Office Supplies,Marketing,382.11,J.Kim,CLEAN
+INV-10128,2024-11-17,Titan Logistics Co.,Facilities,8688.5,J.Kim,CLEAN
+INV-DLT-N0009,2024-09-03,Delta Management Group,Management,4290.67,S.Park,CLEAN
+INV-10520,2024-02-16,Coastal Marketing Group,IT Services,402.44,M.Lee,CLEAN
+INV-10838,2024-11-04,Meridian IT Solutions,Logistics,4384.76,M.Lee,CLEAN
+INV-SHELL-0000,2024-11-06,Alpha Business Services LLC,Consulting,873745.14,J.Kim,OUTLIER_SHELL
+INV-10064,2024-11-30,Greenway Staffing,Logistics,909.16,J.Kim,CLEAN
+INV-10812,2024-10-22,Riverfront Catering,Software Licenses,1714.67,S.Park,CLEAN
+INV-10014,2024-03-24,Riverfront Catering,Staffing,71.89,C.Choi,CLEAN
+INV-10156,2024-10-15,Meridian IT Solutions,Marketing,9693.37,J.Kim,CLEAN
+INV-10040,2024-04-19,Summit Facilities Mgmt,Logistics,13587.79,S.Park,CLEAN
+INV-10492,2024-10-04,Riverfront Catering,IT Services,8554.03,J.Kim,CLEAN
+INV-10379,2024-11-24,Apex Office Supplies,Software Licenses,873.52,M.Lee,CLEAN
+INV-10187,2024-07-31,Titan Logistics Co.,Legal,1693.33,M.Lee,CLEAN
+INV-10763,2024-03-28,Riverfront Catering,Logistics,1658.3,S.Park,CLEAN
+INV-10216,2024-11-26,Titan Logistics Co.,IT Services,186.27,M.Lee,CLEAN
+INV-10791,2024-12-04,Apex Office Supplies,Consulting,2179.65,M.Lee,CLEAN
+INV-10052,2024-01-30,Summit Facilities Mgmt,Software Licenses,983.16,J.Kim,CLEAN
+INV-10878,2024-06-03,Summit Facilities Mgmt,Software Licenses,396.86,J.Kim,CLEAN
+INV-10337,2024-11-17,Blue Ridge Consulting,Consulting,292.54,M.Lee,CLEAN
+INV-10748,2024-03-24,Apex Office Supplies,Software Licenses,1042.77,S.Park,CLEAN
+INV-10719,2024-12-07,Meridian IT Solutions,Consulting,381.1,J.Kim,CLEAN
+INV-10724,2024-08-17,Titan Logistics Co.,Office Supplies,478.6,S.Park,CLEAN
+INV-10295,2024-01-22,NovaTech Systems,Staffing,4988.86,S.Park,CLEAN
+INV-10701,2024-06-28,NovaTech Systems,Logistics,1151.72,C.Choi,CLEAN
+INV-10251,2024-09-28,Inland Legal Services,Marketing,1010.16,C.Choi,CLEAN
+INV-10726,2024-08-10,Titan Logistics Co.,Facilities,410.93,S.Park,CLEAN
+INV-10461,2024-08-25,Apex Office Supplies,Logistics,417.91,C.Choi,CLEAN
+INV-10455,2024-12-24,Apex Office Supplies,Consulting,4651.7,J.Kim,CLEAN
+INV-DUP-0006,2024-11-05,NovaTech Systems,Various,34200.0,M.Lee,DUPLICATE
+INV-10815,2024-10-12,Inland Legal Services,Software Licenses,474.85,J.Kim,CLEAN
+INV-10862,2024-11-12,Blue Ridge Consulting,Logistics,1896.01,C.Choi,CLEAN
+INV-10269,2024-06-15,Meridian IT Solutions,Software Licenses,2033.81,J.Kim,CLEAN
+INV-10201,2024-02-20,Titan Logistics Co.,Consulting,11998.65,C.Choi,CLEAN
+INV-10161,2024-02-08,Blue Ridge Consulting,Office Supplies,3671.58,J.Kim,CLEAN
+INV-10555,2024-03-22,Riverfront Catering,Legal,1248.02,C.Choi,CLEAN
+INV-10729,2024-11-15,Apex Office Supplies,Software Licenses,185.25,C.Choi,CLEAN
+INV-10401,2024-01-20,Riverfront Catering,Office Supplies,1054.23,M.Lee,CLEAN
+INV-10702,2024-10-22,Titan Logistics Co.,Facilities,199.47,S.Park,CLEAN
+INV-10476,2024-04-14,Inland Legal Services,Legal,3037.84,J.Kim,CLEAN
+INV-10821,2024-03-01,NovaTech Systems,Staffing,21732.05,J.Kim,CLEAN
+INV-10771,2024-10-18,Coastal Marketing Group,Staffing,5465.84,S.Park,CLEAN
+INV-10105,2024-08-31,Meridian IT Solutions,Staffing,604.29,M.Lee,CLEAN
+INV-10565,2024-06-05,Coastal Marketing Group,Consulting,1252.29,S.Park,CLEAN
+INV-10389,2024-03-22,Greenway Staffing,Legal,5410.88,M.Lee,CLEAN
+INV-10001,2024-12-12,Meridian IT Solutions,Logistics,351.33,J.Kim,CLEAN
+INV-10937,2024-01-04,Blue Ridge Consulting,Software Licenses,3420.43,J.Kim,CLEAN
+INV-DLT-F0000,2024-11-29,Delta Management Group,Management,88790.55,S.Park,RSF_VIOLATION
+INV-10561,2024-09-07,Titan Logistics Co.,Logistics,11706.05,M.Lee,CLEAN
+INV-10080,2024-04-26,Coastal Marketing Group,Facilities,1483.7,J.Kim,CLEAN
+INV-10205,2024-07-14,Meridian IT Solutions,Software Licenses,777.4,S.Park,CLEAN
+INV-10034,2024-12-19,Blue Ridge Consulting,Facilities,918.32,M.Lee,CLEAN
+INV-10775,2024-02-15,NovaTech Systems,Office Supplies,83.91,C.Choi,CLEAN
+INV-10508,2024-02-08,Summit Facilities Mgmt,Marketing,1888.75,J.Kim,CLEAN
+INV-10427,2024-04-12,NovaTech Systems,Marketing,13098.28,M.Lee,CLEAN
+INV-10454,2024-01-02,Inland Legal Services,Facilities,1121.89,J.Kim,CLEAN
+INV-10366,2024-04-12,Riverfront Catering,Office Supplies,2212.07,S.Park,CLEAN
+INV-10091,2024-07-13,Blue Ridge Consulting,Office Supplies,15963.36,M.Lee,CLEAN
+INV-10339,2024-09-02,NovaTech Systems,Office Supplies,229.59,S.Park,CLEAN
+INV-10897,2024-02-11,Meridian IT Solutions,Marketing,8979.5,S.Park,CLEAN
+INV-10564,2024-10-29,Summit Facilities Mgmt,Consulting,1341.06,S.Park,CLEAN
+INV-10345,2024-07-23,Coastal Marketing Group,Staffing,9532.24,C.Choi,CLEAN
+INV-10776,2024-09-01,Inland Legal Services,Catering,4870.75,J.Kim,CLEAN
+INV-10241,2024-01-14,Meridian IT Solutions,Office Supplies,1630.66,J.Kim,CLEAN
+INV-10013,2024-05-16,Coastal Marketing Group,Consulting,323.13,S.Park,CLEAN
+INV-10315,2024-08-28,Summit Facilities Mgmt,Facilities,411.99,M.Lee,CLEAN
+INV-10600,2024-01-01,Titan Logistics Co.,Facilities,860.05,C.Choi,CLEAN
+INV-10387,2024-03-03,Coastal Marketing Group,Marketing,9784.49,C.Choi,CLEAN
+INV-10273,2024-12-13,Inland Legal Services,Software Licenses,1824.77,C.Choi,CLEAN
+INV-10166,2024-03-25,Meridian IT Solutions,Marketing,3788.99,M.Lee,CLEAN
+INV-10840,2024-12-31,Blue Ridge Consulting,Marketing,1729.32,M.Lee,CLEAN
+INV-DUP-0002,2024-06-22,Titan Logistics Co.,Various,8799.99,M.Lee,DUPLICATE
+INV-10646,2024-12-21,Riverfront Catering,IT Services,159.62,M.Lee,CLEAN
+INV-10818,2024-05-22,Blue Ridge Consulting,IT Services,1947.02,S.Park,CLEAN
+INV-10484,2024-09-11,Summit Facilities Mgmt,Staffing,915.33,J.Kim,CLEAN
+INV-DLT-N0013,2024-07-30,Delta Management Group,Management,6388.61,S.Park,CLEAN
+INV-10504,2024-10-09,Inland Legal Services,Staffing,1006.69,J.Kim,CLEAN
+INV-10831,2024-02-25,Blue Ridge Consulting,Catering,160.99,J.Kim,CLEAN
+INV-10243,2024-01-27,Apex Office Supplies,Office Supplies,3940.96,C.Choi,CLEAN
+INV-10566,2024-09-18,Coastal Marketing Group,Catering,1945.57,C.Choi,CLEAN
+INV-10875,2024-08-09,NovaTech Systems,Legal,28458.17,J.Kim,CLEAN
+INV-10562,2024-07-19,Greenway Staffing,Software Licenses,3960.05,J.Kim,CLEAN
+INV-10686,2024-06-18,Riverfront Catering,Software Licenses,6848.41,S.Park,CLEAN
+INV-10189,2024-09-04,Meridian IT Solutions,Legal,2806.26,M.Lee,CLEAN
+INV-10782,2024-06-21,Riverfront Catering,Catering,10573.84,S.Park,CLEAN
+INV-10699,2024-02-25,Titan Logistics Co.,IT Services,1530.86,J.Kim,CLEAN
+INV-10475,2024-08-01,Apex Office Supplies,Logistics,6806.78,S.Park,CLEAN
+INV-10681,2024-07-17,Blue Ridge Consulting,Legal,3676.31,S.Park,CLEAN
+INV-10510,2024-12-30,Greenway Staffing,Catering,2306.33,J.Kim,CLEAN
+INV-10058,2024-06-09,Summit Facilities Mgmt,Facilities,2436.06,M.Lee,CLEAN
+INV-10474,2024-12-28,Blue Ridge Consulting,Office Supplies,7946.37,C.Choi,CLEAN
+INV-10560,2024-06-15,Riverfront Catering,Facilities,2346.78,C.Choi,CLEAN
+INV-10856,2024-06-14,Meridian IT Solutions,Software Licenses,854.81,J.Kim,CLEAN
+INV-10747,2024-05-12,Coastal Marketing Group,Consulting,916.13,M.Lee,CLEAN
+INV-10252,2024-02-20,Riverfront Catering,Consulting,35793.06,S.Park,CLEAN
+INV-10021,2024-03-11,Blue Ridge Consulting,Logistics,321.89,C.Choi,CLEAN
+INV-10313,2024-07-05,NovaTech Systems,Facilities,3759.94,C.Choi,CLEAN
+INV-10459,2024-06-27,Riverfront Catering,Consulting,615.18,S.Park,CLEAN
+INV-10160,2024-05-15,Blue Ridge Consulting,Consulting,4095.82,S.Park,CLEAN
+INV-10276,2024-05-28,Meridian IT Solutions,Legal,492.29,J.Kim,CLEAN
+INV-BLAW-0005,2024-11-10,Meridian IT Solutions,Consulting,988.52,J.Kim,BENFORD_VIOLATION
+INV-10191,2024-05-02,Blue Ridge Consulting,Software Licenses,949.94,C.Choi,CLEAN
+INV-10385,2024-06-12,Coastal Marketing Group,Legal,468.9,C.Choi,CLEAN
+INV-10805,2024-08-21,Inland Legal Services,Marketing,6526.2,C.Choi,CLEAN
+INV-10413,2024-09-22,Apex Office Supplies,Facilities,1447.62,M.Lee,CLEAN
+INV-10491,2024-06-29,Meridian IT Solutions,Office Supplies,1772.14,S.Park,CLEAN
+INV-10343,2024-04-07,Apex Office Supplies,Marketing,243.0,M.Lee,CLEAN
+INV-10769,2024-12-14,Blue Ridge Consulting,Catering,28816.8,M.Lee,CLEAN
+INV-10308,2024-06-23,Meridian IT Solutions,Staffing,697.22,S.Park,CLEAN
+INV-10661,2024-07-21,Blue Ridge Consulting,Logistics,233.49,J.Kim,CLEAN
+INV-10130,2024-12-04,Coastal Marketing Group,Legal,2736.78,J.Kim,CLEAN
+INV-10663,2024-10-08,NovaTech Systems,Facilities,5539.19,J.Kim,CLEAN
+INV-10871,2024-12-25,Titan Logistics Co.,Catering,881.42,J.Kim,CLEAN
+INV-10099,2024-12-22,Greenway Staffing,Catering,1463.92,C.Choi,CLEAN
+INV-10372,2024-10-09,Meridian IT Solutions,Software Licenses,1721.83,S.Park,CLEAN
+INV-10087,2024-10-02,Riverfront Catering,Facilities,560.46,M.Lee,CLEAN
+INV-10458,2024-07-12,Inland Legal Services,Catering,5499.68,J.Kim,CLEAN
+INV-10330,2024-09-12,Titan Logistics Co.,Software Licenses,1788.22,J.Kim,CLEAN
+INV-10214,2024-04-27,Summit Facilities Mgmt,Software Licenses,294.34,M.Lee,CLEAN
+INV-10466,2024-07-24,Blue Ridge Consulting,Staffing,745.58,S.Park,CLEAN
+INV-10121,2024-08-28,Summit Facilities Mgmt,IT Services,162.49,J.Kim,CLEAN
+INV-10614,2024-05-02,Apex Office Supplies,Staffing,4655.26,C.Choi,CLEAN
+INV-10020,2024-10-25,Greenway Staffing,Catering,22605.63,M.Lee,CLEAN
+INV-10700,2024-08-02,Inland Legal Services,Office Supplies,5620.04,C.Choi,CLEAN
+INV-10071,2024-10-14,Riverfront Catering,IT Services,1878.14,J.Kim,CLEAN
+INV-10106,2024-05-21,Blue Ridge Consulting,Logistics,2660.28,C.Choi,CLEAN
+INV-10270,2024-11-12,Apex Office Supplies,IT Services,6615.34,J.Kim,CLEAN
+INV-10860,2024-02-17,Riverfront Catering,Legal,9339.86,S.Park,CLEAN
+INV-10435,2024-08-22,Titan Logistics Co.,Marketing,1932.72,S.Park,CLEAN
+INV-10102,2024-03-03,Apex Office Supplies,Staffing,6374.75,S.Park,CLEAN
